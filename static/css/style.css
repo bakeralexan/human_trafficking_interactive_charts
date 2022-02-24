@@ -31,3 +31,8 @@ body {
     font-size: 50px;
     font-size-adjust: inherit;
 }
+.article {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
