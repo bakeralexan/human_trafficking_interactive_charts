@@ -22,13 +22,19 @@
         <div class="row">
           <div class="col-md-12 jumbotron text-center">
             <h1>Human Trafficking Dashboard</h1>
-            <p>Use the interactive charts below to explore the dataset</p>
+            <div class="col-xs-12 col-md-9">
+              <div class="article">
+                <p>Did you know that the United States is one of the worst countries for adult human trafficking? 
+              It is believed that 12.3 million people are forced into labor with 2.3 million cases because of labor trafficking. 
+              Here are the FBI crime statistics for Human Trafficking from 2013 to 2020.</p>
+              </div>
+            </div>
           </div>
         </div>
         <div class="row">
           <div class="col-md-2">
             <div class="well">
-              <h5>County Demographics</h5>
+              <h5>Use the interactive charts below to explore the dataset</h5>
               <select id="selDataset" onchange="optionChanged(this.value)"></select>
             </div>
             <div class="panel panel-secondary">
@@ -38,23 +44,50 @@
               <div id="sample-metadata" class="panel-body"></div>
             </div>
           </div>
-          <div class="col-md-5">
-            <div id="bar"></div>
-          </div>
-          <div class="col-md-5">
-            <div id="gauge"></div>
-          </div>
         </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div id="bubble"></div>
-          </div>
-        </div>
+        <h3 class="panel-title">Interactive Map</h3>
     </div>
     <!-- The div that holds our map -->
     <div class='fluid-container container' id="map">
         <link href='map.html' class='title'>Interactive Map</link>
     </div>
+  <div class="container bg-dark">
+    <div class="col-md-5">
+      <h3>Here we add the bar chart Title</h3>
+      <div id="bar"></div>
+      <div class="col-xs-12 col-md-9">
+        <div class="article">
+          <p>This bar chart shows the prevalence of Human Trafficking Crime by state.
+            It had been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-5">
+      <h3>Here we add another chart title</h3>
+      <div id="gauge"></div>
+      <div class="col-xs-12 col-md-9">
+        <div class="article">
+          <p>This other chart shows the prevalence of Human Trafficking Crime by state.
+            It had been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <h3>Here we add the bubble chart title</h3>
+        <div id="bubble"></div>
+        <div class="col-xs-12 col-md-9">
+          <div class="article">
+            <p>This bubble chart shows the prevalence of Human Trafficking Crime by state.
+              It had been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
