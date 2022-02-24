@@ -35,21 +35,31 @@
           <div class="col-md-2">
             <div class="well">
               <h5>Use the interactive charts below to explore the dataset</h5>
-              <select id="selDataset" onchange="optionChanged(this.value)"></select>
+              <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">View Charts</button>
+                <div id="myDropdown" class="dropdown-content">
+                  <a href="#barchart">Bar Chart</a>
+                  <a href="#otherchart">Other Chart</a>
+                  <a href="#bubblechart">Bubble Chart</a>
+                </div>
+              </div>
             </div>
             <div class="panel panel-secondary">
               <div class="panel-heading">
-                <h3 class="panel-title">County Demographic Info</h3>
               </div>
               <div id="sample-metadata" class="panel-body"></div>
             </div>
           </div>
         </div>
-        <h3 class="panel-title">Interactive Map</h3>
+        <br>
+        <br>
+        <br>
     </div>
+    <br>
     <!-- The div that holds our map -->
+    <h1>Human Trafficking Interactive Data Map </h1>
     <div class='fluid-container container' id="map">
-        <link href='map.html' class='title'>Interactive Map</link>
+        <link href='map.html'></link>
     </div>
   <div class="container bg-dark">
     <div class="col-md-5">
