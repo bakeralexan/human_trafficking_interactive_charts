@@ -14,46 +14,83 @@ let countyData = L.layerGroup([]);
 const myMap = L.map("map", {
     center: [35.0902, -105.7129],
     zoom: 4,
-    layers: [street]
+    layers: [satellite, countyData]
 });
-let geojson;
-let countyLines = L.layerGroup([]);
+
 async function dataLoad() {
-    const dataset = await d3.json("human_trafficking_interactive_charts/../human-trafficking/Resources/county.geo.json").then(function (response) {
-         L.geoJson(response).addTo(countyLines);
-        // let features = response.features;
-        geojson = L.choropleth(response, {
+    const dataset = await d3.json("Resources/ht_2013_2020.json").then(function (response) {
 
-        });
-        // for (let i = 0; i < features.length; i++) {
-        //     let feature = features[i];
-        //     let geometry = feature.geometry;
-        //     let properties = feature.properties;
-        //     let countyFIP = properties.COUNTYFP10;
-        //     let countyName = properties.NAMELSAD10;
+        let metadata = response.metadata;
 
-        //     let county = L.circle([geometry.coordinates[1], geometry.coordinates[0]], {
-        //         color: colorChange(magnitude),
-        //         fillColor: colorChange(magnitude),
-        //         fillOpacity: 0.75,
-        //         radius: markerSize(magnitude)
-        //     }).bindPopup(`<h1> Magnitude: ${magnitude}</h1><hr><h3>Location: ${property.place}</h3>`);
-        //     earthquakeMarker.addTo(earthquakeMarkers);
+        for (let i = 0; i < metadata.length; i++) {
+            let datum = metadata[i];
+            let year = datum.year;
+            let location = datum.location;
+            let count = datum.count;
+            let Latitude = datum.Latitude;
+            let Longitude = datum.Longitude;
+
+            function markerSize(count) {
+                if (count != 0 || count != "NaN") {
+                    return count * 1000;
+                } else{
+                    count = 0;
+                }
+            };
+            function colorChange(count) {
+                if (count < 1) return "#98ee00";
+                else if (count < 2) return "#d4ee00";
+                else if (count < 3) return "#eecc00";
+                else if (count < 4) return "#ee9c00";
+                else if (count < 5) return "#ea822c";
+                else return " #ea2c2c";
+    
+            }; 
+
+            let county = L.circle([Latitude, Longitude], {
+                color: colorChange(count),
+                fillColor: colorChange(count),
+                fillOpacity: 0.75,
+                radius: markerSize(count)
+            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            county.addTo(countyData);
             
-        // };
-
+        };
+        let legend = L.control({position: "bottomright"});
+        // Then add all the details for the legend
+        legend.onAdd = function() {
+        let div = L.DomUtil.create("div", "info legend");
+        
+        const counts = [0, 1, 2, 3, 4, 5];
+        const colors = [
+          "#98ee00",
+          "#d4ee00",
+          "#eecc00",
+          "#ee9c00",
+          "#ea822c",
+          "#ea2c2c"
+        ];
+        for (let i = 0; i < counts.length; i++) {
+            console.log(colors[i]);
+            div.innerHTML +=
+                "<i style='background: " + colors[i] + "'></i> " +
+                counts[i] + (counts[i + 1] ? "&ndash;" + counts[i + 1] + "<br>" : "+");
+            }
+            return div;
+        };
+        legend.addTo(myMap);
     });
-    console.log(countyLines); 
+    console.log(countyData); 
 };
 dataLoad();
 
 
 const baseMaps = {
-    Street: street,
-    Satellite: satellite
+    Satellite: satellite,
+    Street: street
 };
 const overlayMaps = {
-    Human_Trafficking: countyLines 
+    Human_Trafficking: countyData
 };
 
 // Pass our map layers into our layer control.
@@ -62,22 +99,16 @@ L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
 }).addTo(myMap); // We use the addTo() method to add objects to our map.
 
-/* When the user clicks on the button,
-toggle between hiding and showing the dropdown content */
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
-  }
-  
   // Close the dropdown menu if the user clicks outside of it
-  window.onclick = function(event) {
-    if (!event.target.matches('.dropbtn')) {
-      var dropdowns = document.getElementsByClassName("dropdown-content");
-      var i;
-      for (i = 0; i < dropdowns.length; i++) {
-        var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains('show')) {
-          openDropdown.classList.remove('show');
-        }
-      }
-    }
-  }
+//   window.onclick = function(event) {
+//     if (!event.target.matches('.dropbtn')) {
+//       var dropdowns = document.getElementsByClassName("dropdown-content");
+//       var i;
+//       for (i = 0; i < dropdowns.length; i++) {
+//         var openDropdown = dropdowns[i];
+//         if (openDropdown.classList.contains('show')) {
+//           openDropdown.classList.remove('show');
+//         }
+//       }
+//     }
+//   }
