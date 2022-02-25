@@ -22,6 +22,8 @@ async function dataLoad() {
 
         let metadata = response.metadata;
 
+
+
         for (let i = 0; i < metadata.length; i++) {
             let datum = metadata[i];
             let year = datum.year;
@@ -38,11 +40,11 @@ async function dataLoad() {
                 }
             };
             function colorChange(count) {
-                if (count < 1) return "#98ee00";
-                else if (count < 2) return "#d4ee00";
-                else if (count < 3) return "#eecc00";
-                else if (count < 4) return "#ee9c00";
-                else if (count < 5) return "#ea822c";
+                if (count < 5) return "#98ee00";
+                else if (count < 10) return "#d4ee00";
+                else if (count < 15) return "#eecc00";
+                else if (count < 20) return "#ee9c00";
+                else if (count < 25) return "#ea822c";
                 else return " #ea2c2c";
     
             }; 
@@ -54,6 +56,22 @@ async function dataLoad() {
                 radius: markerSize(count)
             }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
             county.addTo(countyData);
+
+            // function filterBYear(response, y) {
+            //     f = response.filter(function(d) {
+            //         return d.year == y;
+            //     });
+            //     return f;
+            // }
+            // filterByYear(k, 2013);
+            // filterByYear(k, 2014);
+            // filterByYear(k, 2015);
+            // filterByYear(k, 2016);
+            // filterByYear(k, 2017);
+            // filterByYear(k, 2018);
+            // filterByYear(k, 2019);
+            // filterByYear(k, 2020);
+
             
         };
         let legend = L.control({position: "bottomright"});
@@ -61,7 +79,7 @@ async function dataLoad() {
         legend.onAdd = function() {
         let div = L.DomUtil.create("div", "info legend");
         
-        const counts = [0, 1, 2, 3, 4, 5];
+        const counts = [0, 5, 10, 15, 20, 25];
         const colors = [
           "#98ee00",
           "#d4ee00",
@@ -71,7 +89,7 @@ async function dataLoad() {
           "#ea2c2c"
         ];
         for (let i = 0; i < counts.length; i++) {
-            console.log(colors[i]);
+            // console.log(colors[i]);
             div.innerHTML +=
                 "<i style='background: " + colors[i] + "'></i> " +
                 counts[i] + (counts[i + 1] ? "&ndash;" + counts[i + 1] + "<br>" : "+");
@@ -80,7 +98,7 @@ async function dataLoad() {
         };
         legend.addTo(myMap);
     });
-    console.log(countyData); 
+ 
 };
 dataLoad();
 
