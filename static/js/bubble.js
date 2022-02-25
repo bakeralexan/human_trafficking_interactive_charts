@@ -1,1 +1,1 @@
-d3.json("median_income_state.json").then(data => console.log(data))
+d3.json("Resources/median_income_state.json").then(data => console.log(data))
