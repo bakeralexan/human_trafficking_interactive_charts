@@ -16,12 +16,15 @@ const myMap = L.map("map", {
     zoom: 4,
     layers: [street]
 });
+let geojson;
 let countyLines = L.layerGroup([]);
 async function dataLoad() {
-    const dataset = await d3.json("Resources/county.geo.json").then(function (response) {
+    const dataset = await d3.json("human_trafficking_interactive_charts/../human-trafficking/Resources/county.geo.json").then(function (response) {
          L.geoJson(response).addTo(countyLines);
         // let features = response.features;
+        geojson = L.choropleth(response, {
 
+        });
         // for (let i = 0; i < features.length; i++) {
         //     let feature = features[i];
         //     let geometry = feature.geometry;
