@@ -13,6 +13,9 @@
     integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
     crossorigin="" />
 
+  <!-- Adding AOS outside learning-->
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
 </head>
@@ -70,58 +73,88 @@
           <select id="selDataset" onchange="optionChanged(this.value)"></select>
         </div>
   </div>
+  <br>
 </div>
   <div class="container bg-dark">
     <div class="article">
       <h1>Bubble Chart</h1>
-      <div align="center";>
-      <div id="bubble"></div>
+      <div data-aos="fade-left";>
+        <div align="center";>
+        <div id="bubble"></div>
+        </div>
       </div>
       <div class="col-xs-12 col-md-9">
         <div class="article">
-          <p>This bubble chart shows the prevalence of Human Trafficking Crime by state.
-            It had been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+          <p>This bubble chart shows the prevalence of Human Trafficking Crime by county.
+            It had been generated with plotly and Leaflet using the FBI Crime Explorer Data and the Economic Analysis of the US Department of Commerce.
+            Take a look at how the data changes through the years.
           </p>
         </div>
       </div>
     </div>
+    <br>
   </div>
   <br>
   <div class="container bg-dark">
     <div class="col-md-5">
       <h1>Pie Chart</h1>
-      <div align="center";>
-      <div id="pie"></div>
+      <div data-aos="fade-right";>
+        <div align="center";>
+        <div id="pie"></div>
+      </div>
       </div>
       <div class="col-xs-12 col-md-9">
         <div class="article">
-          <p>This other chart shows the prevalence of Human Trafficking Crime by state.
-            It had been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+          <p>This pie chart shows the percentage diference between involuntary servitude and commercial sex acts.
+            This chart has been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+            Take a look at how the data changes through the years.
           </p>
         </div>
       </div>
     </div>
+    <br>
   </div>
   <br>
   <div class="container bg-dark">
     <div class="center">
-        <h1>Bar Chart</h1>
+      <h1>Bar Chart</h1>
+      <div data-aos="fade-left";>
         <div align="center";>
-        <div id="bar"></div>
-        </div>
-          <div class="article">
-            <p>This bar chart shows the prevalence of Human Trafficking Crime by state.
+          <div id="bar"></div>
+      </div>
+      </div>
+        <div class="article">
+            <p>This bar chart shows the prevalence of Human Trafficking Crime by county.
               It had been generated with plotly and Leaflet using the FBI Crime Explorer Data.
+              Take a look at how the data changes through the years and how some county's Human Trafficking
+              counts relate to others.
             </p>
           </div>
     </div>
+    <br>
   </div>
   </div>
   </div>
   </div>
   <br>
+  <div class="article">
+    <h4>For a closer look into the data sets used or more infromation about Human Trafficking in the 
+      United States, click these references below.</h4>
+  </div>
+  <div class="article">
+    <a href="https://crime-data-explorer.fr.cloud.gov/pages/home" target="_blank">Visit Federal Bureau of Investigation Crime Data Explorer</a>
+  </div>
+  <div class="article">
+    <a href="https://apps.bea.gov/regional/downloadzip.cfm" target="_blank">Visit Bureau of Economic Analysis US Department of Commerce</a>
+  </div>
+  <div class="article">
+    <a href="https://www.state.gov/humantrafficking-about-human-trafficking/" target="_blank">Visit US Department of State Human Trafficking Response website</a>
+  </div>
+  <div class="article">
+    <a href="https://humantraffickinghotline.org/what-human-trafficking/human-trafficking/victims" target="_blank">Visit the National Human Trafficking Hotline website</a>
+  </div>
   <br>
-
+  <br>
   <script>
     /* When the user clicks on the button, 
     toggle between hiding and showing the dropdown content */
@@ -155,11 +188,14 @@
   <!-- API key -->
   <script type="text/javascript" src="static/js/config.js"></script>
   <!-- Our JavaScript -->
-  <script type="text/javascript" src="static/js/app.js"></script>
-  <!-- Our Charts -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
   <script type="text/javascript" src="static/js/bubble.js"></script>
-  <script type="text/javascript" src="static/js/pie.js"></script>
-  <script type="text/javascript" src="static/js/bar.js"></script>
+  <script type="text/javascript" src="static/js/map.js"></script>
+  <!-- Adding AOS script and calling it -->
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 
 </html>
