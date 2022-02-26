@@ -46,7 +46,7 @@ function barChart (yearLoc){
                  let layout = {
                      title: "Human Trafficking Count by County in the United States 2013-2020",
                      height: 600,
-                     width: 1100, 
+                     width: 800, 
                      xaxis: {
                          automargin: true
                      }   
