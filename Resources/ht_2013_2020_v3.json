@@ -4507,6 +4507,48 @@
            3, 2, 1, 7, 1, 3, 1, 3, 2, 1, 17, 2, 1, 1, 1, 2]
         }
      ],
+     "offense_data": [
+      {
+        "Year": 2013,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [8, 1]
+      },
+      {
+        "Year": 2014,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [53, 25]
+      },
+      {
+        "Year": 2015,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [63, 27]
+      },
+      {
+        "Year": 2016,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [275, 50]
+      },
+      {
+        "Year": 2017,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [218, 112]
+      },
+      {
+        "Year": 2018,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [218, 59]
+      },
+      {
+        "Year": 2019,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [461, 107]
+      },
+      {
+        "Year": 2020,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [605, 173]
+      }
+     ],
      "metadata2":{
       "state_abb":
       ["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"]

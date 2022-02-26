@@ -18,9 +18,9 @@ const myMap = L.map("map", {
 });
 
 async function dataLoad() {
-    const dataset = await d3.json("Resources/ht_2013_2020.json").then(function (response) {
+    const dataset = await d3.json("Resources/ht_2013_2020v3.json").then(function (response) {
 
-        let metadata = response.metadata;
+        let metadata = response.metadata1;
 
 
 
@@ -97,6 +97,54 @@ async function dataLoad() {
             return div;
         };
         legend.addTo(myMap);
+
+        function init() {
+            let trace1 = [{
+                values: response.offense_data.count_1,
+                labels:Offense_Subcategory,
+                type:"pie"
+            }];
+            let layout = {
+                height: 600,
+                width: 800
+            };
+            Plotly.newPlot("pie", trace1, layout);
+        })
+        d3.selectAll("#selDataset").on("change", getData);
+        function getData() {
+            let dropdownMenu = d3.select("#selDataset");
+            // Assign the value of the dropdown menu option to a variable
+            let datasetMenu = dropdownMenu.property("value");
+            // Initialize an empty array for the country's data
+            let subYear = [];
+            let subYear = response.offense_data.year
+            if (datasetMenu == '2013') {
+                subYear = 2013;
+            }
+            else if (datasetMenu == '2014') {
+                subYear = 2014;
+            }
+            else if (datasetMenu == '2015') {
+                subYear = 2015;
+            }
+            else if (datasetMenu == '2016') {
+                subYear = 2016;
+            }
+            else if (datasetMenu == '2017') {
+                subYear = 2017;
+            }
+            else if (datasetMenu == '2018') {
+                subYear = 2018;
+            }
+            else if (datasetMenu == '2019') {
+                subYear = 2019;
+            }
+            else if (datasetMenu == '2020') {
+                subYear = 2020;
+            }
+            // Call function to update the chart
+            updatePlotly(subYear);
+          }
     });
  
 };
