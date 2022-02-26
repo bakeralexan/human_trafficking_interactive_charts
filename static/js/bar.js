@@ -43,7 +43,7 @@ function barChart (yearLoc){
                  let data1 = [trace1];
                  let layout = {
                      title: "Human Trafficking Count by Location",
-                    height: 600,
+                     height: 600,
                      width: 1100,    
                  };
                  Plotly.newPlot("bar", data1, layout);

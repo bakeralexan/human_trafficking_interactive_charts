@@ -6,7 +6,8 @@ html {
 }
 body {
     padding: 0;
-    margin: 0;
+    margin: auto;
+    text-align: center;
   }
   
   #map,
@@ -22,6 +23,12 @@ body {
 }
 .container {
     background-color: #666666;
+    position: absolute;
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
 }
 .button {
     background-color: #FF8500;
@@ -30,6 +37,15 @@ body {
     font-weight: bold;
     font-size: 50px;
     font-size-adjust: inherit;
+}
+.center {
+    text-align: center;
+    position: absolute;
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
 }
 .article {
     text-align: center;
