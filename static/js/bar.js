@@ -1,11 +1,11 @@
-d3.json("ht_2013_2020.json").then(data => console.log(data))
+d3.json("ht_2013_2020_v3.json").then(data => console.log(data))
 
 
 // now to populate dropdown with the year data
 function init() {
     let dropDownMenu = d3.select("#selDataset"); 
 //using => to call json file
-    d3.json("ht_2013_2020.json").then(data => {
+    d3.json("ht_2013_2020_v3.json").then(data => {
         let datesYear = data.dates;
         datesYear.forEach(years => {dropDownMenu.append("option").text(years).property("value", years)
      });
@@ -18,7 +18,7 @@ function init() {
 
 // //create bar chart from locations
 function barChart (yearLoc){
-    d3.json('ht_2013_2020.json').then((data)=>{
+    d3.json('ht_2013_2020_v3.json').then((data)=>{
         let htLoc = data.metadata;
         let htArray = htLoc.filter(object => object.year == yearLoc);
         let htResult = htArray[0]
@@ -42,9 +42,12 @@ function barChart (yearLoc){
                  //array was created in order to plot bar chart
                  let data1 = [trace1];
                  let layout = {
-                     title: "Human Trafficking Count by Location",
+                     title: "Human Trafficking Count by County in the United States 2013-2020",
                      height: 600,
-                     width: 1100,    
+                     width: 1100, 
+                     xaxis: {
+                         automargin: true
+                     }   
                  };
                  Plotly.newPlot("bar", data1, layout);
          });
