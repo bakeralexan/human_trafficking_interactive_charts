@@ -83,3 +83,24 @@ body {
   .dropdown a:hover {background-color: #ddd;}
   
   .show {display: block;}
+
+  a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
