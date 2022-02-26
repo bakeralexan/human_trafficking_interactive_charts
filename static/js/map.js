@@ -9,14 +9,15 @@ const satellite = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite
     accessToken: API_KEY
 });
 
-let county2013Data = L.layerGroup([]);
-let county2014Data = L.layerGroup([]);
-let county2015Data = L.layerGroup([]);
-let county2016Data = L.layerGroup([]);
-let county2017Data = L.layerGroup([]);
-let county2018Data = L.layerGroup([]);
-let county2019Data = L.layerGroup([]);
-let county2020Data = L.layerGroup([]);
+let countyData = L.layerGroup([]);
+// let county2013Data = L.layerGroup([]);
+// let county2014Data = L.layerGroup([]);
+// let county2015Data = L.layerGroup([]);
+// let county2016Data = L.layerGroup([]);
+// let county2017Data = L.layerGroup([]);
+// let county2018Data = L.layerGroup([]);
+// let county2019Data = L.layerGroup([]);
+// let county2020Data = L.layerGroup([]);
 
 const myMap = L.map("map", {
     center: [35.0902, -105.7129],
@@ -56,77 +57,85 @@ async function dataLoad() {
     
             }; 
 
-            let county2013 = L.circle([Latitude, Longitude], {
+           let county = L.circle([Latitude, Longitude], {
                 color: colorChange(count),
                 fillColor: colorChange(count),
                 fillOpacity: 0.75,
                 radius: markerSize(count),
-                filter: year == 2013 
             }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2013.addTo(county2013Data);
+            county.addTo(countyData);
 
-            let county2014 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2014 
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2014.addTo(county2014Data);
+            // let county2013 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2013 
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2013.addTo(county2013Data);
 
-            let county2015 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2015
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2015.addTo(county2015Data);
+            // let county2014 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2014 
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2014.addTo(county2014Data);
 
-            let county2016 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2016
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2016.addTo(county2016Data);
+            // let county2015 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2015
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2015.addTo(county2015Data);
 
-            let county2017 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2017
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2017.addTo(county2017Data);
+            // let county2016 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2016
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2016.addTo(county2016Data);
 
-            let county2018 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2018
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2018.addTo(county2018Data);
+            // let county2017 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2017
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2017.addTo(county2017Data);
 
-            let county2019 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2019
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2019.addTo(county2019Data);
+            // let county2018 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2018
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2018.addTo(county2018Data);
 
-            let county2020 = L.circle([Latitude, Longitude], {
-                color: colorChange(count),
-                fillColor: colorChange(count),
-                fillOpacity: 0.75,
-                radius: markerSize(count),
-                filter: year == 2020
-            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county2020.addTo(county2020Data);
+            // let county2019 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2019
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2019.addTo(county2019Data);
+
+            // let county2020 = L.circle([Latitude, Longitude], {
+            //     color: colorChange(count),
+            //     fillColor: colorChange(count),
+            //     fillOpacity: 0.75,
+            //     radius: markerSize(count),
+            //     filter: year == 2020
+            // }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            // county2020.addTo(county2020Data);
             
         };
         let legend = L.control({position: "bottomright"});
@@ -163,14 +172,15 @@ const baseMaps = {
     Street: street
 };
 const overlayMaps = {
-    "2013 Human_Trafficking Counts": county2013Data,
-    "2014 Human_Trafficking Counts": county2014Data,
-    "2015 Human_Trafficking Counts": county2015Data,
-    "2016 Human_Trafficking Counts": county2016Data,
-    "2017 Human_Trafficking Counts": county2017Data,
-    "2018 Human_Trafficking Counts": county2018Data,
-    "2019 Human_Trafficking Counts": county2019Data,
-    "2020 Human_Trafficking Counts": county2020Data
+    "Human Trafficking Counts": countyData
+    // "2013 Human_Trafficking Counts": county2013Data,
+    // "2014 Human_Trafficking Counts": county2014Data,
+    // "2015 Human_Trafficking Counts": county2015Data,
+    // "2016 Human_Trafficking Counts": county2016Data,
+    // "2017 Human_Trafficking Counts": county2017Data,
+    // "2018 Human_Trafficking Counts": county2018Data,
+    // "2019 Human_Trafficking Counts": county2019Data,
+    // "2020 Human_Trafficking Counts": county2020Data
 };
 
 // Pass our map layers into our layer control.
