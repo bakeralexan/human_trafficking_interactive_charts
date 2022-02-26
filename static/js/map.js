@@ -9,7 +9,14 @@ const satellite = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite
     accessToken: API_KEY
 });
 
-let countyData = L.layerGroup([]);
+let county2013Data = L.layerGroup([]);
+let county2014Data = L.layerGroup([]);
+let county2015Data = L.layerGroup([]);
+let county2016Data = L.layerGroup([]);
+let county2017Data = L.layerGroup([]);
+let county2018Data = L.layerGroup([]);
+let county2019Data = L.layerGroup([]);
+let county2020Data = L.layerGroup([]);
 
 const myMap = L.map("map", {
     center: [35.0902, -105.7129],
@@ -18,14 +25,14 @@ const myMap = L.map("map", {
 });
 
 async function dataLoad() {
-    const dataset = await d3.json("Resources/ht_2013_2020.json").then(function (response) {
+    const dataset = await d3.json("ht_2013_2020_v3.json").then(function (response) {
 
-        let metadata = response.metadata;
+        let metadata1 = response.metadata1;
 
 
 
-        for (let i = 0; i < metadata.length; i++) {
-            let datum = metadata[i];
+        for (let i = 0; i < metadata1.length; i++) {
+            let datum = metadata1[i];
             let year = datum.year;
             let location = datum.location;
             let count = datum.count;
@@ -49,29 +56,46 @@ async function dataLoad() {
     
             }; 
 
-            let county = L.circle([Latitude, Longitude], {
+            let county2013 = L.circle([Latitude, Longitude], {
                 color: colorChange(count),
                 fillColor: colorChange(count),
                 fillOpacity: 0.75,
-                radius: markerSize(count)
+                radius: markerSize(count),
+                filter: function(response) { return year == 2013 }
             }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
-            county.addTo(countyData);
-
-            // function filterBYear(response, y) {
-            //     f = response.filter(function(d) {
-            //         return d.year == y;
-            //     });
-            //     return f;
-            // }
-            // filterByYear(k, 2013);
-            // filterByYear(k, 2014);
-            // filterByYear(k, 2015);
-            // filterByYear(k, 2016);
-            // filterByYear(k, 2017);
-            // filterByYear(k, 2018);
-            // filterByYear(k, 2019);
-            // filterByYear(k, 2020);
-
+            county2014.addTo(county2014Data);
+            let county2014 = L.circle([Latitude, Longitude], {
+                color: colorChange(count),
+                fillColor: colorChange(count),
+                fillOpacity: 0.75,
+                radius: markerSize(count),
+                filter: function(response) { return year == 2014 }
+            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            county2014.addTo(county2014Data);
+            let county2013 = L.circle([Latitude, Longitude], {
+                color: colorChange(count),
+                fillColor: colorChange(count),
+                fillOpacity: 0.75,
+                radius: markerSize(count),
+                filter: function(response) { return year == 2013 }
+            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            county2013.addTo(county2013Data);
+            let county2013 = L.circle([Latitude, Longitude], {
+                color: colorChange(count),
+                fillColor: colorChange(count),
+                fillOpacity: 0.75,
+                radius: markerSize(count),
+                filter: function(response) { return year == 2013 }
+            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            county2013.addTo(county2013Data);
+            let county2013 = L.circle([Latitude, Longitude], {
+                color: colorChange(count),
+                fillColor: colorChange(count),
+                fillOpacity: 0.75,
+                radius: markerSize(count),
+                filter: function(response) { return year == 2013 }
+            }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
+            county2013.addTo(county2013Data);
             
         };
         let legend = L.control({position: "bottomright"});
@@ -116,17 +140,3 @@ const overlayMaps = {
 L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
 }).addTo(myMap); // We use the addTo() method to add objects to our map.
-
-  // Close the dropdown menu if the user clicks outside of it
-//   window.onclick = function(event) {
-//     if (!event.target.matches('.dropbtn')) {
-//       var dropdowns = document.getElementsByClassName("dropdown-content");
-//       var i;
-//       for (i = 0; i < dropdowns.length; i++) {
-//         var openDropdown = dropdowns[i];
-//         if (openDropdown.classList.contains('show')) {
-//           openDropdown.classList.remove('show');
-//         }
-//       }
-//     }
-//   }
