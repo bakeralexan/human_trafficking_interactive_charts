@@ -15,10 +15,10 @@ app = Flask(__name__)
 app.config["MONGO_URI"] = "mongodb://localhost:27017/HumanTrafficking"
 mongo = PyMongo(app)
 
-# #read file
-# def json_file(obj):
-#     with open("ht_2013_2020_v3", "r") as outfile:
-#         outfile.write(obj)
+#read file
+def json_file(obj):
+    with open("ht_2013_2020_v3", "r") as outfile:
+        outfile.write(obj)
 
 #Route for index.html
 @app.route("/")
@@ -38,6 +38,10 @@ def lists1():
 @app.route('/data2')
 def lists2():
     return json_util.dumps(i for i in mongo.db.metadata2.find())
+
+@app.route('/data3')
+def lists3():
+    return json_util.dumps(i for i in mongo.db.metadata3.find())
 
 if __name__ == "__main__":
     app.run(debug=True)
