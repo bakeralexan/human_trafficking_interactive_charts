@@ -4507,6 +4507,49 @@
            3, 2, 1, 7, 1, 3, 1, 3, 2, 1, 17, 2, 1, 1, 1, 2]
         }
      ], 
+
+     "offense_data": [
+      {
+        "Year": 2013,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [8, 1]
+      },
+      {
+        "Year": 2014,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [53, 25]
+      },
+      {
+        "Year": 2015,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [63, 27]
+      },
+      {
+        "Year": 2016,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [275, 50]
+      },
+      {
+        "Year": 2017,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [218, 112]
+      },
+      {
+        "Year": 2018,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [218, 59]
+      },
+      {
+        "Year": 2019,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [461, 107]
+      },
+      {
+        "Year": 2020,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [605, 173]
+      }
+     ],
      
      "metadata2":[
       {"year":"2013", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[2013,51617,31478,30819,32394,38827.5,39593,51540.5,67066,43233,33721,30046,38254,43267,33449,39763.5,36466,45426,30979.5,36715.5,54233,48514.5,35351.5,33144,42504,33877,31149.5,39468,32359,54166,46646,48964.5,51643,34191,38147,37972.5,35833.5,35775,35016,38095,54761,31585.5,44443,32444,39003.5,31955,37068,44915,37838,39791.5,31962,46551],
