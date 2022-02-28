@@ -4,6 +4,7 @@ from flask import jsonify
 import json
 from bson import json_util
 import os
+from flask import url_for
 
 
 
@@ -14,20 +15,29 @@ app = Flask(__name__)
 app.config["MONGO_URI"] = "mongodb://localhost:27017/HumanTrafficking"
 mongo = PyMongo(app)
 
+# #read file
+# def json_file(obj):
+#     with open("ht_2013_2020_v3", "r") as outfile:
+#         outfile.write(obj)
+
 #Route for index.html
 @app.route("/")
 def index():
     return render_template("index.html")
 
-    #Route to get the HT JSON data
+#  #Route to get the HT JSON data
 @app.route('/data')
 def lists():
-    return json_util.dumps(i for i in mongo.db.Human_Trafficking_2013_2020.find())
+    return json_util.dumps(i for i in mongo.db.metadata.find())
 
- #Route to get the BEA JSON data
+ #Route to get the JSON data
+@app.route('/data1')
+def lists1():
+    return json_util.dumps(i for i in mongo.db.metadata1.find())
+
 @app.route('/data2')
 def lists2():
-    return json_util.dumps(i for i in mongo.db.BEA_Clean.find())
+    return json_util.dumps(i for i in mongo.db.metadata2.find())
 
 if __name__ == "__main__":
     app.run(debug=True)
