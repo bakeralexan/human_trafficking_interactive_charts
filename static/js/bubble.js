@@ -69,7 +69,7 @@ function bubbleChart (yearLoc){
                         ticks: 'outside'
                     },
                     height: 600,
-                    width: 1000,    
+                    width: 800,    
                     plot_bgcolor:"lightgray"
                  };
                  Plotly.newPlot("bubble", bubbleArray, layout4);
