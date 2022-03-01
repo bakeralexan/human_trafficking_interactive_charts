@@ -1,0 +1,4582 @@
+[
+   {"dates":["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"]},
+   {"metadata1": [
+    {
+      "year": "2013",
+      "location": "ALLEN, Ohio",
+      "count": 2,
+      "Latitude": 40.769946,
+      "Longitude": -84.1435136
+    },
+    {
+      "year": "2013",
+      "location": "NELSON, Virginia",
+      "count": 1,
+      "Latitude": 37.7478599,
+      "Longitude": -78.8835548
+    },
+    {
+      "year": "2013",
+      "location": "ST LOUIS, Missouri",
+      "count": 6,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2014",
+      "location": "ARAPAHOE, Colorado",
+      "count": 4,
+      "Latitude": 39.62031,
+      "Longitude": -104.332644
+    },
+    {
+      "year": "2014",
+      "location": "BEXAR, Texas",
+      "count": 3,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2014",
+      "location": "BOONE, Missouri",
+      "count": 1,
+      "Latitude": 39.0468547,
+      "Longitude": -92.3813621
+    },
+    {
+      "year": "2014",
+      "location": "CHAMBERS, Texas",
+      "count": 2,
+      "Latitude": 29.7524956,
+      "Longitude": -94.6863782
+    },
+    {
+      "year": "2014",
+      "location": "COLLIER, Florida",
+      "count": 12,
+      "Latitude": 26.069985,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2014",
+      "location": "COOK, Illinois",
+      "count": 1,
+      "Latitude": 41.7376587,
+      "Longitude": -87.697554
+    },
+    {
+      "year": "2014",
+      "location": "HARRIS, Texas",
+      "count": 8,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2014",
+      "location": "HILLSBOROUGH, Florida",
+      "count": 4,
+      "Latitude": 27.9903597,
+      "Longitude": -82.3017728
+    },
+    {
+      "year": "2014",
+      "location": "HORRY, South Carolina",
+      "count": 1,
+      "Latitude": 33.9196567,
+      "Longitude": -78.9288242
+    },
+    {
+      "year": "2014",
+      "location": "INDIAN RIVER, Florida",
+      "count": 3,
+      "Latitude": 28.2142068,
+      "Longitude": -80.6431877
+    },
+    {
+      "year": "2014",
+      "location": "JEFFERSON, Colorado",
+      "count": 1,
+      "Latitude": 39.377255,
+      "Longitude": -105.8005988
+    },
+    {
+      "year": "2014",
+      "location": "JIM HOGG, Texas",
+      "count": 1,
+      "Latitude": 26.995506,
+      "Longitude": -98.7481167
+    },
+    {
+      "year": "2014",
+      "location": "JIM WELLS, Texas",
+      "count": 3,
+      "Latitude": 27.7841718,
+      "Longitude": -98.0465185
+    },
+    {
+      "year": "2014",
+      "location": "JOHNSON, Tennessee",
+      "count": 1,
+      "Latitude": 36.3134397,
+      "Longitude": -82.3534727
+    },
+    {
+      "year": "2014",
+      "location": "LA SALLE, Texas",
+      "count": 1,
+      "Latitude": 28.2758921,
+      "Longitude": -99.1013498
+    },
+    {
+      "year": "2014",
+      "location": "LEE, Florida",
+      "count": 1,
+      "Latitude": 30.4196584,
+      "Longitude": -83.3004216
+    },
+    {
+      "year": "2014",
+      "location": "MADISON, Illinois",
+      "count": 2,
+      "Latitude": 38.6825502,
+      "Longitude": -90.1570536
+    },
+    {
+      "year": "2014",
+      "location": "MANATEE, Florida",
+      "count": 1,
+      "Latitude": 27.4799195,
+      "Longitude": -82.345189
+    },
+    {
+      "year": "2014",
+      "location": "ORANGE, Florida",
+      "count": 5,
+      "Latitude": 29.1383165,
+      "Longitude": -80.9956105
+    },
+    {
+      "year": "2014",
+      "location": "OSCEOLA, Florida",
+      "count": 4,
+      "Latitude": 28.1019838,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2014",
+      "location": "POLK, Minnesota",
+      "count": 1,
+      "Latitude": 47.6635085,
+      "Longitude": -96.4170534
+    },
+    {
+      "year": "2014",
+      "location": "RANDOLPH, Illinois",
+      "count": 2,
+      "Latitude": 38.0629321,
+      "Longitude": -89.7755338
+    },
+    {
+      "year": "2014",
+      "location": "SANGAMON, Illinois",
+      "count": 8,
+      "Latitude": 39.7337353,
+      "Longitude": -89.6251646
+    },
+    {
+      "year": "2014",
+      "location": "SMITH, Texas",
+      "count": 1,
+      "Latitude": 32.3352505,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2014",
+      "location": "ST LOUIS, Missouri",
+      "count": 2,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2014",
+      "location": "WILLACY, Texas",
+      "count": 5,
+      "Latitude": 26.4948223,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2015",
+      "location": "ALLEN, Ohio",
+      "count": 2,
+      "Latitude": 40.769946,
+      "Longitude": -84.1435136
+    },
+    {
+      "year": "2015",
+      "location": "ANOKA, Minnesota",
+      "count": 2,
+      "Latitude": 45.1977428,
+      "Longitude": -93.3871758
+    },
+    {
+      "year": "2015",
+      "location": "ARAPAHOE, Colorado",
+      "count": 5,
+      "Latitude": 39.62031,
+      "Longitude": -104.332644
+    },
+    {
+      "year": "2015",
+      "location": "BEE, Texas",
+      "count": 1,
+      "Latitude": 28.3624206,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2015",
+      "location": "BENTON, Washington",
+      "count": 1,
+      "Latitude": 46.3166362,
+      "Longitude": -119.5021582
+    },
+    {
+      "year": "2015",
+      "location": "BEXAR, Texas",
+      "count": 1,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2015",
+      "location": "CARVER, Minnesota",
+      "count": 3,
+      "Latitude": 44.7633943,
+      "Longitude": -93.6254404
+    },
+    {
+      "year": "2015",
+      "location": "FAYETTE, Tennessee",
+      "count": 1,
+      "Latitude": 35.1257427,
+      "Longitude": -89.4742177
+    },
+    {
+      "year": "2015",
+      "location": "FILLMORE, Minnesota",
+      "count": 1,
+      "Latitude": 43.7485749,
+      "Longitude": -92.2682204
+    },
+    {
+      "year": "2015",
+      "location": "FLOYD, Texas",
+      "count": 1,
+      "Latitude": 33.148727,
+      "Longitude": -96.244978
+    },
+    {
+      "year": "2015",
+      "location": "FREDERICK, Maryland",
+      "count": 1,
+      "Latitude": 39.4142688,
+      "Longitude": -77.4105409
+    },
+    {
+      "year": "2015",
+      "location": "GRAINGER, Tennessee",
+      "count": 1,
+      "Latitude": 36.3059333,
+      "Longitude": -83.5496566
+    },
+    {
+      "year": "2015",
+      "location": "GREENVILLE, South Carolina",
+      "count": 10,
+      "Latitude": 34.8526176,
+      "Longitude": -82.3940104
+    },
+    {
+      "year": "2015",
+      "location": "HARRIS, Texas",
+      "count": 18,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2015",
+      "location": "HENRICO, Virginia",
+      "count": 2,
+      "Latitude": 37.5059332,
+      "Longitude": -77.3324425
+    },
+    {
+      "year": "2015",
+      "location": "HOWARD, Maryland",
+      "count": 3,
+      "Latitude": 39.2873463,
+      "Longitude": -76.964306
+    },
+    {
+      "year": "2015",
+      "location": "INGHAM, Michigan",
+      "count": 4,
+      "Latitude": 42.6468943,
+      "Longitude": -84.3542049
+    },
+    {
+      "year": "2015",
+      "location": "JIM WELLS, Texas",
+      "count": 5,
+      "Latitude": 27.7841718,
+      "Longitude": -98.0465185
+    },
+    {
+      "year": "2015",
+      "location": "KIMBLE, Texas",
+      "count": 1,
+      "Latitude": 30.4338473,
+      "Longitude": -99.8124935
+    },
+    {
+      "year": "2015",
+      "location": "LAURENS, South Carolina",
+      "count": 1,
+      "Latitude": 34.4990116,
+      "Longitude": -82.0142597
+    },
+    {
+      "year": "2015",
+      "location": "MONTGOMERY, Maryland",
+      "count": 5,
+      "Latitude": 39.1547426,
+      "Longitude": -77.2405153
+    },
+    {
+      "year": "2015",
+      "location": "NEWTON, Texas",
+      "count": 2,
+      "Latitude": 30.8485724,
+      "Longitude": -93.7600658
+    },
+    {
+      "year": "2015",
+      "location": "NICOLLET, Minnesota",
+      "count": 2,
+      "Latitude": 44.2760774,
+      "Longitude": -94.1874633
+    },
+    {
+      "year": "2015",
+      "location": "SHELBY, Tennessee",
+      "count": 1,
+      "Latitude": 35.1268552,
+      "Longitude": -89.9253233
+    },
+    {
+      "year": "2015",
+      "location": "ST LOUIS, Missouri",
+      "count": 6,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2015",
+      "location": "STEARNS, Minnesota",
+      "count": 1,
+      "Latitude": 45.5844792,
+      "Longitude": -94.5865603
+    },
+    {
+      "year": "2015",
+      "location": "WILLACY, Texas",
+      "count": 9,
+      "Latitude": 26.4948223,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2016",
+      "location": "ALACHUA, Florida",
+      "count": 1,
+      "Latitude": 29.7938144,
+      "Longitude": -82.4944226
+    },
+    {
+      "year": "2016",
+      "location": "ALLEN, Ohio",
+      "count": 1,
+      "Latitude": 40.769946,
+      "Longitude": -84.1435136
+    },
+    {
+      "year": "2016",
+      "location": "ANNE ARUNDEL, Maryland",
+      "count": 2,
+      "Latitude": 38.9530109,
+      "Longitude": -76.5488232
+    },
+    {
+      "year": "2016",
+      "location": "ARAPAHOE, Colorado",
+      "count": 3,
+      "Latitude": 39.62031,
+      "Longitude": -104.332644
+    },
+    {
+      "year": "2016",
+      "location": "BELTRAMI, Minnesota",
+      "count": 1,
+      "Latitude": 47.5424684,
+      "Longitude": -96.530344
+    },
+    {
+      "year": "2016",
+      "location": "BEXAR, Texas",
+      "count": 1,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2016",
+      "location": "BOSQUE, Texas",
+      "count": 1,
+      "Latitude": 31.8507607,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2016",
+      "location": "CARBON, Wyoming",
+      "count": 2,
+      "Latitude": 41.6032207,
+      "Longitude": -106.912251
+    },
+    {
+      "year": "2016",
+      "location": "CHAMPAIGN, Illinois",
+      "count": 1,
+      "Latitude": 40.1164204,
+      "Longitude": -88.2433829
+    },
+    {
+      "year": "2016",
+      "location": "CHEROKEE, Oklahoma",
+      "count": 1,
+      "Latitude": 36.7544746,
+      "Longitude": -98.3567403
+    },
+    {
+      "year": "2016",
+      "location": "CLACKAMAS, Oregon",
+      "count": 1,
+      "Latitude": 45.4076205,
+      "Longitude": -122.5703692
+    },
+    {
+      "year": "2016",
+      "location": "COLLIER, Florida",
+      "count": 4,
+      "Latitude": 26.069985,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2016",
+      "location": "COOKE, Texas",
+      "count": 1,
+      "Latitude": 33.6672185,
+      "Longitude": -97.3516558
+    },
+    {
+      "year": "2016",
+      "location": "EATON, Michigan",
+      "count": 1,
+      "Latitude": 42.5886496,
+      "Longitude": -84.7733325
+    },
+    {
+      "year": "2016",
+      "location": "ESCAMBIA, Florida",
+      "count": 2,
+      "Latitude": 30.6389408,
+      "Longitude": -87.3413599
+    },
+    {
+      "year": "2016",
+      "location": "FORT BEND, Texas",
+      "count": 2,
+      "Latitude": 29.5692614,
+      "Longitude": -95.8142885
+    },
+    {
+      "year": "2016",
+      "location": "GREENVILLE, South Carolina",
+      "count": 13,
+      "Latitude": 34.8526176,
+      "Longitude": -82.3940104
+    },
+    {
+      "year": "2016",
+      "location": "GREGG, Texas",
+      "count": 1,
+      "Latitude": 32.4892547,
+      "Longitude": -94.8520636
+    },
+    {
+      "year": "2016",
+      "location": "HARRIS, Texas",
+      "count": 23,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2016",
+      "location": "HENRICO, Virginia",
+      "count": 7,
+      "Latitude": 37.5059332,
+      "Longitude": -77.3324425
+    },
+    {
+      "year": "2016",
+      "location": "HIDALGO, Texas",
+      "count": 1,
+      "Latitude": 26.1003547,
+      "Longitude": -98.2630684
+    },
+    {
+      "year": "2016",
+      "location": "HILLSBOROUGH, Florida",
+      "count": 2,
+      "Latitude": 27.9903597,
+      "Longitude": -82.3017728
+    },
+    {
+      "year": "2016",
+      "location": "HOWARD, Maryland",
+      "count": 6,
+      "Latitude": 39.2873463,
+      "Longitude": -76.964306
+    },
+    {
+      "year": "2016",
+      "location": "HUTCHINSON, Texas",
+      "count": 3,
+      "Latitude": 35.8031909,
+      "Longitude": -101.4339148
+    },
+    {
+      "year": "2016",
+      "location": "JEFFERSON, Louisiana",
+      "count": 114,
+      "Latitude": 29.9660371,
+      "Longitude": -90.1531298
+    },
+    {
+      "year": "2016",
+      "location": "JIM WELLS, Texas",
+      "count": 1,
+      "Latitude": 27.7841718,
+      "Longitude": -98.0465185
+    },
+    {
+      "year": "2016",
+      "location": "JOHNSON, Tennessee",
+      "count": 1,
+      "Latitude": 36.3134397,
+      "Longitude": -82.3534727
+    },
+    {
+      "year": "2016",
+      "location": "KENT, Delaware",
+      "count": 2,
+      "Latitude": 39.1440612,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2016",
+      "location": "KITSAP, Washington",
+      "count": 1,
+      "Latitude": 47.6476607,
+      "Longitude": -122.6412583
+    },
+    {
+      "year": "2016",
+      "location": "KLEBERG, Texas",
+      "count": 8,
+      "Latitude": 27.4308339,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2016",
+      "location": "LEE, Florida",
+      "count": 4,
+      "Latitude": 30.4196584,
+      "Longitude": -83.3004216
+    },
+    {
+      "year": "2016",
+      "location": "MCKENZIE, North Dakota",
+      "count": 1,
+      "Latitude": 47.7714179,
+      "Longitude": -103.4122495
+    },
+    {
+      "year": "2016",
+      "location": "MIAMI-DADE, Florida",
+      "count": 42,
+      "Latitude": 25.5516034,
+      "Longitude": -80.6326916
+    },
+    {
+      "year": "2016",
+      "location": "MONTGOMERY, Maryland",
+      "count": 1,
+      "Latitude": 39.1547426,
+      "Longitude": -77.2405153
+    },
+    {
+      "year": "2016",
+      "location": "NOLAN, Texas",
+      "count": 1,
+      "Latitude": 32.2735525,
+      "Longitude": -100.2442826
+    },
+    {
+      "year": "2016",
+      "location": "ORANGE, Florida",
+      "count": 3,
+      "Latitude": 29.1383165,
+      "Longitude": -80.9956105
+    },
+    {
+      "year": "2016",
+      "location": "OSCEOLA, Florida",
+      "count": 1,
+      "Latitude": 28.1019838,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2016",
+      "location": "OTTER TAIL, Minnesota",
+      "count": 1,
+      "Latitude": 46.5189435,
+      "Longitude": -95.8935983
+    },
+    {
+      "year": "2016",
+      "location": "PALM BEACH, Florida",
+      "count": 9,
+      "Latitude": 26.7056206,
+      "Longitude": -80.0364297
+    },
+    {
+      "year": "2016",
+      "location": "RANDOLPH, Illinois",
+      "count": 2,
+      "Latitude": 38.0629321,
+      "Longitude": -89.7755338
+    },
+    {
+      "year": "2016",
+      "location": "ROOSEVELT, Montana",
+      "count": 1,
+      "Latitude": 48.2850231,
+      "Longitude": -105.1099231
+    },
+    {
+      "year": "2016",
+      "location": "SEMINOLE, Florida",
+      "count": 3,
+      "Latitude": 27.8397466,
+      "Longitude": -82.7912134
+    },
+    {
+      "year": "2016",
+      "location": "ST LOUIS, Minnesota",
+      "count": 1,
+      "Latitude": 47.7395106,
+      "Longitude": -92.3623921
+    },
+    {
+      "year": "2016",
+      "location": "ST LOUIS, Missouri",
+      "count": 11,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2016",
+      "location": "SUSSEX, Delaware",
+      "count": 10,
+      "Latitude": 38.6530841,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2016",
+      "location": "TANGIPAHOA, Louisiana",
+      "count": 1,
+      "Latitude": 30.8760151,
+      "Longitude": -90.5120391
+    },
+    {
+      "year": "2016",
+      "location": "VOLUSIA, Florida",
+      "count": 2,
+      "Latitude": 29.0279842,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2016",
+      "location": "WHITE, Arkansas",
+      "count": 2,
+      "Latitude": 35.2900612,
+      "Longitude": -91.7538817
+    },
+    {
+      "year": "2016",
+      "location": "WILLACY, Texas",
+      "count": 20,
+      "Latitude": 26.4948223,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2016",
+      "location": "WINNEBAGO, Illinois",
+      "count": 1,
+      "Latitude": 42.2661311,
+      "Longitude": -89.2412202
+    },
+    {
+      "year": "2017",
+      "location": "ARAPAHOE, Colorado",
+      "count": 2,
+      "Latitude": 39.62031,
+      "Longitude": -104.332644
+    },
+    {
+      "year": "2017",
+      "location": "AUSTIN, Texas",
+      "count": 1,
+      "Latitude": 30.267153,
+      "Longitude": -97.7430608
+    },
+    {
+      "year": "2017",
+      "location": "BEXAR, Texas",
+      "count": 1,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2017",
+      "location": "BLUE EARTH, Minnesota",
+      "count": 10,
+      "Latitude": 43.6375818,
+      "Longitude": -94.1023906
+    },
+    {
+      "year": "2017",
+      "location": "BOWIE, Texas",
+      "count": 1,
+      "Latitude": 33.5589953,
+      "Longitude": -97.8486457
+    },
+    {
+      "year": "2017",
+      "location": "BOX ELDER, Utah",
+      "count": 1,
+      "Latitude": 41.5380087,
+      "Longitude": -113.1918021
+    },
+    {
+      "year": "2017",
+      "location": "BRAZOS, Texas",
+      "count": 1,
+      "Latitude": 30.6504141,
+      "Longitude": -96.3226072
+    },
+    {
+      "year": "2017",
+      "location": "BROWN, Wisconsin",
+      "count": 12,
+      "Latitude": 44.4561674,
+      "Longitude": -87.9334803
+    },
+    {
+      "year": "2017",
+      "location": "CALEDONIA, Vermont",
+      "count": 1,
+      "Latitude": 44.55051,
+      "Longitude": -72.0481907
+    },
+    {
+      "year": "2017",
+      "location": "CALHOUN, Michigan",
+      "count": 1,
+      "Latitude": 42.2073905,
+      "Longitude": -85.023346
+    },
+    {
+      "year": "2017",
+      "location": "CAMDEN, Missouri",
+      "count": 1,
+      "Latitude": 38.0322944,
+      "Longitude": -92.6983868
+    },
+    {
+      "year": "2017",
+      "location": "CARVER, Minnesota",
+      "count": 3,
+      "Latitude": 44.7633943,
+      "Longitude": -93.6254404
+    },
+    {
+      "year": "2017",
+      "location": "CHAMBERS, Texas",
+      "count": 4,
+      "Latitude": 29.7524956,
+      "Longitude": -94.6863782
+    },
+    {
+      "year": "2017",
+      "location": "CHESTER, South Carolina",
+      "count": 1,
+      "Latitude": 34.7048613,
+      "Longitude": -81.2142561
+    },
+    {
+      "year": "2017",
+      "location": "CHITTENDEN, Vermont",
+      "count": 2,
+      "Latitude": 43.7271064,
+      "Longitude": -72.9428417
+    },
+    {
+      "year": "2017",
+      "location": "CLAIBORNE, Tennessee",
+      "count": 1,
+      "Latitude": 36.4830423,
+      "Longitude": -83.634843
+    },
+    {
+      "year": "2017",
+      "location": "CROCKETT, Tennessee",
+      "count": 1,
+      "Latitude": 35.7812386,
+      "Longitude": -89.1324866
+    },
+    {
+      "year": "2017",
+      "location": "CROW WING, Minnesota",
+      "count": 1,
+      "Latitude": 46.2799671,
+      "Longitude": -94.2924998
+    },
+    {
+      "year": "2017",
+      "location": "DANE, Wisconsin",
+      "count": 3,
+      "Latitude": 43.2505472,
+      "Longitude": -89.5015088
+    },
+    {
+      "year": "2017",
+      "location": "DOUGLAS, Colorado",
+      "count": 1,
+      "Latitude": 39.2587106,
+      "Longitude": -104.9388853
+    },
+    {
+      "year": "2017",
+      "location": "FRANKLIN, Kentucky",
+      "count": 52,
+      "Latitude": 36.7187855,
+      "Longitude": -86.5785573
+    },
+    {
+      "year": "2017",
+      "location": "GALLATIN, Montana",
+      "count": 1,
+      "Latitude": 45.5388865,
+      "Longitude": -111.1194231
+    },
+    {
+      "year": "2017",
+      "location": "GREENVILLE, South Carolina",
+      "count": 20,
+      "Latitude": 34.8526176,
+      "Longitude": -82.3940104
+    },
+    {
+      "year": "2017",
+      "location": "HARDEMAN, Tennessee",
+      "count": 1,
+      "Latitude": 35.1229172,
+      "Longitude": -89.0179332
+    },
+    {
+      "year": "2017",
+      "location": "HARRIS, Texas",
+      "count": 25,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2017",
+      "location": "HENNEPIN, Minnesota",
+      "count": 1,
+      "Latitude": 45.0208911,
+      "Longitude": -93.5094574
+    },
+    {
+      "year": "2017",
+      "location": "HENRICO, Virginia",
+      "count": 5,
+      "Latitude": 37.5059332,
+      "Longitude": -77.3324425
+    },
+    {
+      "year": "2017",
+      "location": "HIDALGO, Texas",
+      "count": 1,
+      "Latitude": 26.1003547,
+      "Longitude": -98.2630684
+    },
+    {
+      "year": "2017",
+      "location": "HOPKINS, Texas",
+      "count": 1,
+      "Latitude": 33.2282942,
+      "Longitude": -95.4777811
+    },
+    {
+      "year": "2017",
+      "location": "HOUSTON, Minnesota",
+      "count": 4,
+      "Latitude": 43.7632995,
+      "Longitude": -91.5684764
+    },
+    {
+      "year": "2017",
+      "location": "INGHAM, Michigan",
+      "count": 1,
+      "Latitude": 42.6468943,
+      "Longitude": -84.3542049
+    },
+    {
+      "year": "2017",
+      "location": "JACKSON, Michigan",
+      "count": 1,
+      "Latitude": 42.245869,
+      "Longitude": -84.4013462
+    },
+    {
+      "year": "2017",
+      "location": "JEFFERSON, Colorado",
+      "count": 3,
+      "Latitude": 39.377255,
+      "Longitude": -105.8005988
+    },
+    {
+      "year": "2017",
+      "location": "JEFFERSON, Louisiana",
+      "count": 51,
+      "Latitude": 29.9660371,
+      "Longitude": -90.1531298
+    },
+    {
+      "year": "2017",
+      "location": "KALAMAZOO, Michigan",
+      "count": 1,
+      "Latitude": 42.2917069,
+      "Longitude": -85.5872286
+    },
+    {
+      "year": "2017",
+      "location": "KANKAKEE, Illinois",
+      "count": 1,
+      "Latitude": 41.1200325,
+      "Longitude": -87.8611531
+    },
+    {
+      "year": "2017",
+      "location": "KENT, Delaware",
+      "count": 4,
+      "Latitude": 39.1440612,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2017",
+      "location": "KITSAP, Washington",
+      "count": 1,
+      "Latitude": 47.6476607,
+      "Longitude": -122.6412583
+    },
+    {
+      "year": "2017",
+      "location": "KNOX, Tennessee",
+      "count": 1,
+      "Latitude": 35.9874629,
+      "Longitude": -83.9419784
+    },
+    {
+      "year": "2017",
+      "location": "LAFAYETTE, Louisiana",
+      "count": 1,
+      "Latitude": 30.2240897,
+      "Longitude": -92.0198427
+    },
+    {
+      "year": "2017",
+      "location": "LARIMER, Colorado",
+      "count": 1,
+      "Latitude": 40.6955572,
+      "Longitude": -105.5943388
+    },
+    {
+      "year": "2017",
+      "location": "LENAWEE, Michigan",
+      "count": 1,
+      "Latitude": 41.8433859,
+      "Longitude": -84.0167423
+    },
+    {
+      "year": "2017",
+      "location": "MACKINAC, Michigan",
+      "count": 1,
+      "Latitude": 45.8683129,
+      "Longitude": -84.6275658
+    },
+    {
+      "year": "2017",
+      "location": "MADISON, Illinois",
+      "count": 2,
+      "Latitude": 38.6825502,
+      "Longitude": -90.1570536
+    },
+    {
+      "year": "2017",
+      "location": "MADISON, Tennessee",
+      "count": 1,
+      "Latitude": 36.2562002,
+      "Longitude": -86.7143516
+    },
+    {
+      "year": "2017",
+      "location": "MAURY, Tennessee",
+      "count": 1,
+      "Latitude": 35.6195242,
+      "Longitude": -87.1422895
+    },
+    {
+      "year": "2017",
+      "location": "MONROE, Tennessee",
+      "count": 1,
+      "Latitude": 36.4370083,
+      "Longitude": -85.2424622
+    },
+    {
+      "year": "2017",
+      "location": "MORTON, North Dakota",
+      "count": 2,
+      "Latitude": 46.6683872,
+      "Longitude": -101.1621736
+    },
+    {
+      "year": "2017",
+      "location": "NORFOLK, Massachusetts",
+      "count": 2,
+      "Latitude": 42.1195426,
+      "Longitude": -71.3250563
+    },
+    {
+      "year": "2017",
+      "location": "PICKENS, South Carolina",
+      "count": 1,
+      "Latitude": 34.8834489,
+      "Longitude": -82.7073573
+    },
+    {
+      "year": "2017",
+      "location": "PINAL, Arizona",
+      "count": 7,
+      "Latitude": 32.8162061,
+      "Longitude": -111.2845025
+    },
+    {
+      "year": "2017",
+      "location": "RANDALL, Texas",
+      "count": 1,
+      "Latitude": 34.9020377,
+      "Longitude": -101.7979613
+    },
+    {
+      "year": "2017",
+      "location": "RANDOLPH, Illinois",
+      "count": 1,
+      "Latitude": 38.0629321,
+      "Longitude": -89.7755338
+    },
+    {
+      "year": "2017",
+      "location": "SALUDA, South Carolina",
+      "count": 1,
+      "Latitude": 34.0015232,
+      "Longitude": -81.7720522
+    },
+    {
+      "year": "2017",
+      "location": "SHELBY, Tennessee",
+      "count": 2,
+      "Latitude": 35.1268552,
+      "Longitude": -89.9253233
+    },
+    {
+      "year": "2017",
+      "location": "ST LOUIS, Missouri",
+      "count": 16,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2017",
+      "location": "ST TAMMANY, Louisiana",
+      "count": 1,
+      "Latitude": 30.4357418,
+      "Longitude": -89.9253233
+    },
+    {
+      "year": "2017",
+      "location": "STARR, Texas",
+      "count": 1,
+      "Latitude": 26.6215167,
+      "Longitude": -98.7481167
+    },
+    {
+      "year": "2017",
+      "location": "STONE, Missouri",
+      "count": 1,
+      "Latitude": 36.7748882,
+      "Longitude": -93.4599326
+    },
+    {
+      "year": "2017",
+      "location": "SUSSEX, Delaware",
+      "count": 1,
+      "Latitude": 38.6530841,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2017",
+      "location": "SWEETWATER, Wyoming",
+      "count": 1,
+      "Latitude": 41.8519395,
+      "Longitude": -109.1880047
+    },
+    {
+      "year": "2017",
+      "location": "WARD, North Dakota",
+      "count": 1,
+      "Latitude": 48.2147451,
+      "Longitude": -101.5805256
+    },
+    {
+      "year": "2017",
+      "location": "WARREN, Kentucky",
+      "count": 1,
+      "Latitude": 36.9886043,
+      "Longitude": -86.4996546
+    },
+    {
+      "year": "2017",
+      "location": "WASHINGTON, Minnesota",
+      "count": 1,
+      "Latitude": 44.8896877,
+      "Longitude": -92.8577105
+    },
+    {
+      "year": "2017",
+      "location": "WASHINGTON, Oregon",
+      "count": 1,
+      "Latitude": 45.5469616,
+      "Longitude": -123.1386021
+    },
+    {
+      "year": "2017",
+      "location": "WASHTENAW, Michigan",
+      "count": 1,
+      "Latitude": 42.3076493,
+      "Longitude": -83.8473015
+    },
+    {
+      "year": "2017",
+      "location": "WAYNE, Michigan",
+      "count": 1,
+      "Latitude": 42.2814269,
+      "Longitude": -83.3863214
+    },
+    {
+      "year": "2017",
+      "location": "WEBB, Texas",
+      "count": 43,
+      "Latitude": 27.7925109,
+      "Longitude": -99.4228149
+    },
+    {
+      "year": "2017",
+      "location": "WILLACY, Texas",
+      "count": 6,
+      "Latitude": 26.4948223,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2017",
+      "location": "WINNEBAGO, Illinois",
+      "count": 2,
+      "Latitude": 42.2661311,
+      "Longitude": -89.2412202
+    },
+    {
+      "year": "2017",
+      "location": "WINONA, Minnesota",
+      "count": 2,
+      "Latitude": 44.0553908,
+      "Longitude": -91.6663523
+    },
+    {
+      "year": "2018",
+      "location": "ADAMS, Colorado",
+      "count": 1,
+      "Latitude": 39.8398269,
+      "Longitude": -104.1930918
+    },
+    {
+      "year": "2018",
+      "location": "ALLEN, Kentucky",
+      "count": 1,
+      "Latitude": 37.6100457,
+      "Longitude": -82.7279705
+    },
+    {
+      "year": "2018",
+      "location": "BAY, Michigan",
+      "count": 1,
+      "Latitude": 43.7109732,
+      "Longitude": -84.0167423
+    },
+    {
+      "year": "2018",
+      "location": "BENSON, North Dakota",
+      "count": 1,
+      "Latitude": 48.088634,
+      "Longitude": -99.4648442
+    },
+    {
+      "year": "2018",
+      "location": "BERKELEY, West Virginia",
+      "count": 2,
+      "Latitude": 39.4885604,
+      "Longitude": -78.0651931
+    },
+    {
+      "year": "2018",
+      "location": "BERRIEN, Michigan",
+      "count": 1,
+      "Latitude": 42.0320742,
+      "Longitude": -86.7416374
+    },
+    {
+      "year": "2018",
+      "location": "BEXAR, Texas",
+      "count": 1,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2018",
+      "location": "BOLLINGER, Missouri",
+      "count": 1,
+      "Latitude": 37.2115595,
+      "Longitude": -90.0746767
+    },
+    {
+      "year": "2018",
+      "location": "BOULDER, Colorado",
+      "count": 1,
+      "Latitude": 40.0149856,
+      "Longitude": -105.2705456
+    },
+    {
+      "year": "2018",
+      "location": "BULLITT, Kentucky",
+      "count": 1,
+      "Latitude": 37.9842107,
+      "Longitude": -85.684578
+    },
+    {
+      "year": "2018",
+      "location": "BURNET, Texas",
+      "count": 10,
+      "Latitude": 30.7582376,
+      "Longitude": -98.2283585
+    },
+    {
+      "year": "2018",
+      "location": "CARROLL, Virginia",
+      "count": 1,
+      "Latitude": 36.6778699,
+      "Longitude": -80.7214417
+    },
+    {
+      "year": "2018",
+      "location": "CHAMBERS, Texas",
+      "count": 2,
+      "Latitude": 29.7524956,
+      "Longitude": -94.6863782
+    },
+    {
+      "year": "2018",
+      "location": "CHEROKEE, South Carolina",
+      "count": 1,
+      "Latitude": 35.0120404,
+      "Longitude": -81.6035062
+    },
+    {
+      "year": "2018",
+      "location": "CHESTERFIELD, South Carolina",
+      "count": 1,
+      "Latitude": 34.7359889,
+      "Longitude": -80.0881194
+    },
+    {
+      "year": "2018",
+      "location": "CLINTON, Michigan",
+      "count": 1,
+      "Latitude": 42.0719866,
+      "Longitude": -83.9716095
+    },
+    {
+      "year": "2018",
+      "location": "COLLIER, Florida",
+      "count": 4,
+      "Latitude": 26.069985,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2018",
+      "location": "COMAL, Texas",
+      "count": 1,
+      "Latitude": 29.8105572,
+      "Longitude": -98.2212979
+    },
+    {
+      "year": "2018",
+      "location": "CREEK, Oklahoma",
+      "count": 1,
+      "Latitude": 35.8362494,
+      "Longitude": -96.3226072
+    },
+    {
+      "year": "2018",
+      "location": "DALLAS, Texas",
+      "count": 1,
+      "Latitude": 32.7766642,
+      "Longitude": -96.7969879
+    },
+    {
+      "year": "2018",
+      "location": "DODGE, Wisconsin",
+      "count": 1,
+      "Latitude": 44.1321852,
+      "Longitude": -91.5520942
+    },
+    {
+      "year": "2018",
+      "location": "DUBOIS, Indiana",
+      "count": 1,
+      "Latitude": 38.357918,
+      "Longitude": -86.8220341
+    },
+    {
+      "year": "2018",
+      "location": "EL PASO, Colorado",
+      "count": 1,
+      "Latitude": 38.9108325,
+      "Longitude": -104.4723301
+    },
+    {
+      "year": "2018",
+      "location": "FAYETTE, West Virginia",
+      "count": 1,
+      "Latitude": 38.0615913,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2018",
+      "location": "FORT BEND, Texas",
+      "count": 1,
+      "Latitude": 29.5692614,
+      "Longitude": -95.8142885
+    },
+    {
+      "year": "2018",
+      "location": "FRANKLIN, Kentucky",
+      "count": 5,
+      "Latitude": 36.7187855,
+      "Longitude": -86.5785573
+    },
+    {
+      "year": "2018",
+      "location": "FRANKLIN, Vermont",
+      "count": 1,
+      "Latitude": 44.9812585,
+      "Longitude": -72.9165547
+    },
+    {
+      "year": "2018",
+      "location": "FREEBORN, Minnesota",
+      "count": 1,
+      "Latitude": 43.76579,
+      "Longitude": -93.5641078
+    },
+    {
+      "year": "2018",
+      "location": "GENESEE, Michigan",
+      "count": 4,
+      "Latitude": 43.0777289,
+      "Longitude": -83.6773928
+    },
+    {
+      "year": "2018",
+      "location": "GREENVILLE, South Carolina",
+      "count": 2,
+      "Latitude": 34.8526176,
+      "Longitude": -82.3940104
+    },
+    {
+      "year": "2018",
+      "location": "HAMILTON, Tennessee",
+      "count": 1,
+      "Latitude": 35.1618966,
+      "Longitude": -85.1479364
+    },
+    {
+      "year": "2018",
+      "location": "HARRIS, Texas",
+      "count": 13,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2018",
+      "location": "HARRISON, Mississippi",
+      "count": 1,
+      "Latitude": 30.432087,
+      "Longitude": -89.0179332
+    },
+    {
+      "year": "2018",
+      "location": "HENNEPIN, Minnesota",
+      "count": 7,
+      "Latitude": 45.0208911,
+      "Longitude": -93.5094574
+    },
+    {
+      "year": "2018",
+      "location": "HENRICO, Virginia",
+      "count": 3,
+      "Latitude": 37.5059332,
+      "Longitude": -77.3324425
+    },
+    {
+      "year": "2018",
+      "location": "HERNANDO, Florida",
+      "count": 11,
+      "Latitude": 28.8999815,
+      "Longitude": -82.3745401
+    },
+    {
+      "year": "2018",
+      "location": "HILLSBOROUGH, Florida",
+      "count": 6,
+      "Latitude": 27.9903597,
+      "Longitude": -82.3017728
+    },
+    {
+      "year": "2018",
+      "location": "HORRY, South Carolina",
+      "count": 1,
+      "Latitude": 33.9196567,
+      "Longitude": -78.9288242
+    },
+    {
+      "year": "2018",
+      "location": "INGHAM, Michigan",
+      "count": 2,
+      "Latitude": 42.6468943,
+      "Longitude": -84.3542049
+    },
+    {
+      "year": "2018",
+      "location": "IOSCO, Michigan",
+      "count": 1,
+      "Latitude": 44.3340462,
+      "Longitude": -83.6386226
+    },
+    {
+      "year": "2018",
+      "location": "ISANTI, Minnesota",
+      "count": 1,
+      "Latitude": 45.4894008,
+      "Longitude": -93.2476091
+    },
+    {
+      "year": "2018",
+      "location": "JACKSON, Michigan",
+      "count": 2,
+      "Latitude": 42.245869,
+      "Longitude": -84.4013462
+    },
+    {
+      "year": "2018",
+      "location": "JACKSON, West Virginia",
+      "count": 1,
+      "Latitude": 38.8139943,
+      "Longitude": -81.647344
+    },
+    {
+      "year": "2018",
+      "location": "JEFFERSON, Colorado",
+      "count": 3,
+      "Latitude": 39.377255,
+      "Longitude": -105.8005988
+    },
+    {
+      "year": "2018",
+      "location": "JEFFERSON, Louisiana",
+      "count": 10,
+      "Latitude": 29.9660371,
+      "Longitude": -90.1531298
+    },
+    {
+      "year": "2018",
+      "location": "JIM WELLS, Texas",
+      "count": 1,
+      "Latitude": 27.7841718,
+      "Longitude": -98.0465185
+    },
+    {
+      "year": "2018",
+      "location": "KALAMAZOO, Michigan",
+      "count": 1,
+      "Latitude": 42.2917069,
+      "Longitude": -85.5872286
+    },
+    {
+      "year": "2018",
+      "location": "KANKAKEE, Illinois",
+      "count": 1,
+      "Latitude": 41.1200325,
+      "Longitude": -87.8611531
+    },
+    {
+      "year": "2018",
+      "location": "KENT, Michigan",
+      "count": 2,
+      "Latitude": 43.0097027,
+      "Longitude": -85.520024
+    },
+    {
+      "year": "2018",
+      "location": "KING, Washington",
+      "count": 1,
+      "Latitude": 47.5480339,
+      "Longitude": -121.9836029
+    },
+    {
+      "year": "2018",
+      "location": "KITSAP, Washington",
+      "count": 1,
+      "Latitude": 47.6476607,
+      "Longitude": -122.6412583
+    },
+    {
+      "year": "2018",
+      "location": "KNOX, Illinois",
+      "count": 6,
+      "Latitude": 40.9342048,
+      "Longitude": -90.2548467
+    },
+    {
+      "year": "2018",
+      "location": "LAFAYETTE, Louisiana",
+      "count": 1,
+      "Latitude": 30.2240897,
+      "Longitude": -92.0198427
+    },
+    {
+      "year": "2018",
+      "location": "LAKE, Florida",
+      "count": 2,
+      "Latitude": 28.6736915,
+      "Longitude": -81.3636586
+    },
+    {
+      "year": "2018",
+      "location": "LAURENS, South Carolina",
+      "count": 1,
+      "Latitude": 34.4990116,
+      "Longitude": -82.0142597
+    },
+    {
+      "year": "2018",
+      "location": "LEE, Florida",
+      "count": 1,
+      "Latitude": 30.4196584,
+      "Longitude": -83.3004216
+    },
+    {
+      "year": "2018",
+      "location": "LINCOLN, Wisconsin",
+      "count": 1,
+      "Latitude": 44.6180518,
+      "Longitude": -87.6420375
+    },
+    {
+      "year": "2018",
+      "location": "MACOMB, Michigan",
+      "count": 1,
+      "Latitude": 42.6651965,
+      "Longitude": -82.9286428
+    },
+    {
+      "year": "2018",
+      "location": "MANATEE, Florida",
+      "count": 1,
+      "Latitude": 27.4799195,
+      "Longitude": -82.345189
+    },
+    {
+      "year": "2018",
+      "location": "MARION, Indiana",
+      "count": 1,
+      "Latitude": 40.5583739,
+      "Longitude": -85.6591442
+    },
+    {
+      "year": "2018",
+      "location": "MARION, Tennessee",
+      "count": 3,
+      "Latitude": 35.0928512,
+      "Longitude": -85.643487
+    },
+    {
+      "year": "2018",
+      "location": "MARSHALL, Minnesota",
+      "count": 1,
+      "Latitude": 44.448423,
+      "Longitude": -95.7911916
+    },
+    {
+      "year": "2018",
+      "location": "MARTIN, Minnesota",
+      "count": 1,
+      "Latitude": 43.6266807,
+      "Longitude": -94.479976
+    },
+    {
+      "year": "2018",
+      "location": "MIDLAND, Texas",
+      "count": 1,
+      "Latitude": 31.9973456,
+      "Longitude": -102.0779146
+    },
+    {
+      "year": "2018",
+      "location": "MISSAUKEE, Michigan",
+      "count": 1,
+      "Latitude": 44.366621,
+      "Longitude": -85.023346
+    },
+    {
+      "year": "2018",
+      "location": "MONTGOMERY, Tennessee",
+      "count": 2,
+      "Latitude": 36.4960406,
+      "Longitude": -87.460397
+    },
+    {
+      "year": "2018",
+      "location": "MONTGOMERY, Texas",
+      "count": 3,
+      "Latitude": 30.3882613,
+      "Longitude": -95.6963355
+    },
+    {
+      "year": "2018",
+      "location": "NEW CASTLE, Delaware",
+      "count": 1,
+      "Latitude": 39.6620397,
+      "Longitude": -75.5668166
+    },
+    {
+      "year": "2018",
+      "location": "NODAWAY, Missouri",
+      "count": 1,
+      "Latitude": 40.2907281,
+      "Longitude": -94.8105955
+    },
+    {
+      "year": "2018",
+      "location": "ONEIDA, Wisconsin",
+      "count": 1,
+      "Latitude": 44.4799393,
+      "Longitude": -88.2266434
+    },
+    {
+      "year": "2018",
+      "location": "ORANGE, Florida",
+      "count": 6,
+      "Latitude": 29.1383165,
+      "Longitude": -80.9956105
+    },
+    {
+      "year": "2018",
+      "location": "OSCEOLA, Florida",
+      "count": 1,
+      "Latitude": 28.1019838,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2018",
+      "location": "OSCEOLA, Michigan",
+      "count": 1,
+      "Latitude": 43.9257279,
+      "Longitude": -85.354965
+    },
+    {
+      "year": "2018",
+      "location": "PALM BEACH, Florida",
+      "count": 20,
+      "Latitude": 26.7056206,
+      "Longitude": -80.0364297
+    },
+    {
+      "year": "2018",
+      "location": "PASCO, Florida",
+      "count": 3,
+      "Latitude": 28.3232418,
+      "Longitude": -82.4319405
+    },
+    {
+      "year": "2018",
+      "location": "PIMA, Arizona",
+      "count": 1,
+      "Latitude": 32.8961755,
+      "Longitude": -109.8275815
+    },
+    {
+      "year": "2018",
+      "location": "PINAL, Arizona",
+      "count": 2,
+      "Latitude": 32.8162061,
+      "Longitude": -111.2845025
+    },
+    {
+      "year": "2018",
+      "location": "POLK, Florida",
+      "count": 1,
+      "Latitude": 27.8617347,
+      "Longitude": -81.6911559
+    },
+    {
+      "year": "2018",
+      "location": "PRINCE WILLIAM, Virginia",
+      "count": 3,
+      "Latitude": 38.7838939,
+      "Longitude": -77.6077865
+    },
+    {
+      "year": "2018",
+      "location": "PUTNAM, Indiana",
+      "count": 2,
+      "Latitude": 39.690997,
+      "Longitude": -86.8220341
+    },
+    {
+      "year": "2018",
+      "location": "RAMSEY, Minnesota",
+      "count": 1,
+      "Latitude": 45.2611,
+      "Longitude": -93.45
+    },
+    {
+      "year": "2018",
+      "location": "RICE, Minnesota",
+      "count": 1,
+      "Latitude": 45.7529003,
+      "Longitude": -94.2223283
+    },
+    {
+      "year": "2018",
+      "location": "SAGINAW, Michigan",
+      "count": 1,
+      "Latitude": 43.4194699,
+      "Longitude": -83.9508068
+    },
+    {
+      "year": "2018",
+      "location": "SARASOTA, Florida",
+      "count": 1,
+      "Latitude": 27.3364347,
+      "Longitude": -82.5306527
+    },
+    {
+      "year": "2018",
+      "location": "SCHOOLCRAFT, Michigan",
+      "count": 1,
+      "Latitude": 42.1142107,
+      "Longitude": -85.6377776
+    },
+    {
+      "year": "2018",
+      "location": "SEMINOLE, Florida",
+      "count": 1,
+      "Latitude": 27.8397466,
+      "Longitude": -82.7912134
+    },
+    {
+      "year": "2018",
+      "location": "ST JOSEPH, Michigan",
+      "count": 2,
+      "Latitude": 42.0938577,
+      "Longitude": -86.4895463
+    },
+    {
+      "year": "2018",
+      "location": "ST LOUIS, Missouri",
+      "count": 11,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2018",
+      "location": "ST LUCIE, Florida",
+      "count": 1,
+      "Latitude": 27.499208,
+      "Longitude": -80.3421984
+    },
+    {
+      "year": "2018",
+      "location": "STARR, Texas",
+      "count": 2,
+      "Latitude": 26.6215167,
+      "Longitude": -98.7481167
+    },
+    {
+      "year": "2018",
+      "location": "STEARNS, Minnesota",
+      "count": 2,
+      "Latitude": 45.5844792,
+      "Longitude": -94.5865603
+    },
+    {
+      "year": "2018",
+      "location": "STONE, Missouri",
+      "count": 1,
+      "Latitude": 36.7748882,
+      "Longitude": -93.4599326
+    },
+    {
+      "year": "2018",
+      "location": "SUSSEX, Delaware",
+      "count": 3,
+      "Latitude": 38.6530841,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2018",
+      "location": "SWEETWATER, Wyoming",
+      "count": 4,
+      "Latitude": 41.8519395,
+      "Longitude": -109.1880047
+    },
+    {
+      "year": "2018",
+      "location": "TARRANT, Texas",
+      "count": 34,
+      "Latitude": 32.7732044,
+      "Longitude": -97.3516558
+    },
+    {
+      "year": "2018",
+      "location": "TULSA, Oklahoma",
+      "count": 1,
+      "Latitude": 36.1539816,
+      "Longitude": -95.992775
+    },
+    {
+      "year": "2018",
+      "location": "VICTORIA, Texas",
+      "count": 1,
+      "Latitude": 28.8052674,
+      "Longitude": -97.0035982
+    },
+    {
+      "year": "2018",
+      "location": "VOLUSIA, Florida",
+      "count": 1,
+      "Latitude": 29.0279842,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2018",
+      "location": "WASHINGTON, Vermont",
+      "count": 1,
+      "Latitude": 44.105619,
+      "Longitude": -72.432601
+    },
+    {
+      "year": "2018",
+      "location": "WAYNE, Michigan",
+      "count": 5,
+      "Latitude": 42.2814269,
+      "Longitude": -83.3863214
+    },
+    {
+      "year": "2018",
+      "location": "WEBB, Texas",
+      "count": 6,
+      "Latitude": 27.7925109,
+      "Longitude": -99.4228149
+    },
+    {
+      "year": "2018",
+      "location": "WILLACY, Texas",
+      "count": 2,
+      "Latitude": 26.4948223,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2018",
+      "location": "WRIGHT, Minnesota",
+      "count": 2,
+      "Latitude": 46.6715593,
+      "Longitude": -93.0074403
+    },
+    {
+      "year": "2019",
+      "location": "ACCOMACK, Virginia",
+      "count": 1,
+      "Latitude": 37.7063323,
+      "Longitude": -75.8069082
+    },
+    {
+      "year": "2019",
+      "location": "ALBEMARLE, Virginia",
+      "count": 1,
+      "Latitude": 38.0567092,
+      "Longitude": -78.6114999
+    },
+    {
+      "year": "2019",
+      "location": "ALLEN, Kentucky",
+      "count": 1,
+      "Latitude": 37.6100457,
+      "Longitude": -82.7279705
+    },
+    {
+      "year": "2019",
+      "location": "ALLEN, Ohio",
+      "count": 6,
+      "Latitude": 40.769946,
+      "Longitude": -84.1435136
+    },
+    {
+      "year": "2019",
+      "location": "AMHERST, Virginia",
+      "count": 1,
+      "Latitude": 37.5851412,
+      "Longitude": -79.0514134
+    },
+    {
+      "year": "2019",
+      "location": "ANNE ARUNDEL, Maryland",
+      "count": 8,
+      "Latitude": 38.9530109,
+      "Longitude": -76.5488232
+    },
+    {
+      "year": "2019",
+      "location": "ARAPAHOE, Colorado",
+      "count": 2,
+      "Latitude": 39.62031,
+      "Longitude": -104.332644
+    },
+    {
+      "year": "2019",
+      "location": "ARLINGTON, Virginia",
+      "count": 3,
+      "Latitude": 38.8816208,
+      "Longitude": -77.0909809
+    },
+    {
+      "year": "2019",
+      "location": "BAKER, Florida",
+      "count": 1,
+      "Latitude": 30.7971318,
+      "Longitude": -86.681344
+    },
+    {
+      "year": "2019",
+      "location": "BALTIMORE, Maryland",
+      "count": 2,
+      "Latitude": 39.2903848,
+      "Longitude": -76.6121893
+    },
+    {
+      "year": "2019",
+      "location": "BELL, Texas",
+      "count": 3,
+      "Latitude": 31.134411,
+      "Longitude": -97.5247243
+    },
+    {
+      "year": "2019",
+      "location": "BERKELEY, West Virginia",
+      "count": 13,
+      "Latitude": 39.4885604,
+      "Longitude": -78.0651931
+    },
+    {
+      "year": "2019",
+      "location": "BERNALILLO, New Mexico",
+      "count": 2,
+      "Latitude": 35.30004,
+      "Longitude": -106.5511369
+    },
+    {
+      "year": "2019",
+      "location": "BEXAR, Texas",
+      "count": 3,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2019",
+      "location": "BOSSIER, Louisiana",
+      "count": 1,
+      "Latitude": 32.5159852,
+      "Longitude": -93.7321228
+    },
+    {
+      "year": "2019",
+      "location": "BOWIE, Texas",
+      "count": 1,
+      "Latitude": 33.5589953,
+      "Longitude": -97.8486457
+    },
+    {
+      "year": "2019",
+      "location": "BRADLEY, Tennessee",
+      "count": 4,
+      "Latitude": 35.1937778,
+      "Longitude": -84.8567932
+    },
+    {
+      "year": "2019",
+      "location": "BRAXTON, West Virginia",
+      "count": 2,
+      "Latitude": 38.7023371,
+      "Longitude": -80.7214417
+    },
+    {
+      "year": "2019",
+      "location": "BROOKE, West Virginia",
+      "count": 2,
+      "Latitude": 40.2697757,
+      "Longitude": -80.5660657
+    },
+    {
+      "year": "2019",
+      "location": "BROWN, Wisconsin",
+      "count": 4,
+      "Latitude": 44.4561674,
+      "Longitude": -87.9334803
+    },
+    {
+      "year": "2019",
+      "location": "CARSON CITY, Nevada",
+      "count": 1,
+      "Latitude": 39.1637984,
+      "Longitude": -119.7674034
+    },
+    {
+      "year": "2019",
+      "location": "CATAWBA, North Carolina",
+      "count": 4,
+      "Latitude": 35.7073558,
+      "Longitude": -81.0756345
+    },
+    {
+      "year": "2019",
+      "location": "CHAMBERS, Texas",
+      "count": 1,
+      "Latitude": 29.7524956,
+      "Longitude": -94.6863782
+    },
+    {
+      "year": "2019",
+      "location": "CHEROKEE, Georgia",
+      "count": 1,
+      "Latitude": 34.2514526,
+      "Longitude": -84.4802606
+    },
+    {
+      "year": "2019",
+      "location": "CHESTERFIELD, Virginia",
+      "count": 1,
+      "Latitude": 37.3673217,
+      "Longitude": -77.6077865
+    },
+    {
+      "year": "2019",
+      "location": "CHITTENDEN, Vermont",
+      "count": 4,
+      "Latitude": 43.7271064,
+      "Longitude": -72.9428417
+    },
+    {
+      "year": "2019",
+      "location": "CLAY, Indiana",
+      "count": 1,
+      "Latitude": 39.368622,
+      "Longitude": -87.1422895
+    },
+    {
+      "year": "2019",
+      "location": "CLAYTON, Georgia",
+      "count": 1,
+      "Latitude": 34.8781479,
+      "Longitude": -83.4009933
+    },
+    {
+      "year": "2019",
+      "location": "CLEVELAND, North Carolina",
+      "count": 1,
+      "Latitude": 35.7331953,
+      "Longitude": -80.6770111
+    },
+    {
+      "year": "2019",
+      "location": "COBB, Georgia",
+      "count": 1,
+      "Latitude": 33.8999297,
+      "Longitude": -84.564147
+    },
+    {
+      "year": "2019",
+      "location": "COLLIER, Florida",
+      "count": 3,
+      "Latitude": 26.069985,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2019",
+      "location": "CONCHO, Texas",
+      "count": 1,
+      "Latitude": 31.3431641,
+      "Longitude": -99.8124935
+    },
+    {
+      "year": "2019",
+      "location": "COOKE, Texas",
+      "count": 1,
+      "Latitude": 33.6672185,
+      "Longitude": -97.3516558
+    },
+    {
+      "year": "2019",
+      "location": "COWETA, Georgia",
+      "count": 11,
+      "Latitude": 33.3716708,
+      "Longitude": -84.7315563
+    },
+    {
+      "year": "2019",
+      "location": "CUMBERLAND, North Carolina",
+      "count": 11,
+      "Latitude": 34.9542604,
+      "Longitude": -78.7476208
+    },
+    {
+      "year": "2019",
+      "location": "DEKALB, Georgia",
+      "count": 1,
+      "Latitude": 33.7956441,
+      "Longitude": -84.2278796
+    },
+    {
+      "year": "2019",
+      "location": "DODDRIDGE, West Virginia",
+      "count": 3,
+      "Latitude": 39.2367791,
+      "Longitude": -80.6770787
+    },
+    {
+      "year": "2019",
+      "location": "DODGE, Wisconsin",
+      "count": 2,
+      "Latitude": 44.1321852,
+      "Longitude": -91.5520942
+    },
+    {
+      "year": "2019",
+      "location": "DOUGLAS, Colorado",
+      "count": 2,
+      "Latitude": 39.2587106,
+      "Longitude": -104.9388853
+    },
+    {
+      "year": "2019",
+      "location": "DOUGLAS, Nebraska",
+      "count": 3,
+      "Latitude": 40.5939437,
+      "Longitude": -96.3877734
+    },
+    {
+      "year": "2019",
+      "location": "DUPAGE, Illinois",
+      "count": 1,
+      "Latitude": 41.8243831,
+      "Longitude": -88.0900762
+    },
+    {
+      "year": "2019",
+      "location": "EAU CLAIRE, Wisconsin",
+      "count": 1,
+      "Latitude": 44.811349,
+      "Longitude": -91.4984941
+    },
+    {
+      "year": "2019",
+      "location": "EDWARDS, Texas",
+      "count": 4,
+      "Latitude": 29.9282955,
+      "Longitude": -100.439656
+    },
+    {
+      "year": "2019",
+      "location": "ELLIS, Texas",
+      "count": 1,
+      "Latitude": 32.2619765,
+      "Longitude": -96.8350999
+    },
+    {
+      "year": "2019",
+      "location": "FANNIN, Georgia",
+      "count": 1,
+      "Latitude": 34.8580405,
+      "Longitude": -84.2278796
+    },
+    {
+      "year": "2019",
+      "location": "FAYETTE, West Virginia",
+      "count": 1,
+      "Latitude": 38.0615913,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2019",
+      "location": "FLAGLER, Florida",
+      "count": 1,
+      "Latitude": 29.4086072,
+      "Longitude": -81.2518833
+    },
+    {
+      "year": "2019",
+      "location": "FRANKLIN, Kentucky",
+      "count": 28,
+      "Latitude": 36.7187855,
+      "Longitude": -86.5785573
+    },
+    {
+      "year": "2019",
+      "location": "FULTON, Georgia",
+      "count": 2,
+      "Latitude": 33.8033965,
+      "Longitude": -84.3962535
+    },
+    {
+      "year": "2019",
+      "location": "GENESEE, Michigan",
+      "count": 43,
+      "Latitude": 43.0777289,
+      "Longitude": -83.6773928
+    },
+    {
+      "year": "2019",
+      "location": "GEORGETOWN, South Carolina",
+      "count": 1,
+      "Latitude": 33.376834,
+      "Longitude": -79.2944964
+    },
+    {
+      "year": "2019",
+      "location": "GILMER, West Virginia",
+      "count": 1,
+      "Latitude": 38.9203312,
+      "Longitude": -80.8543847
+    },
+    {
+      "year": "2019",
+      "location": "GRAHAM, North Carolina",
+      "count": 1,
+      "Latitude": 36.0678765,
+      "Longitude": -79.400393
+    },
+    {
+      "year": "2019",
+      "location": "GRAND FORKS, North Dakota",
+      "count": 1,
+      "Latitude": 47.9252568,
+      "Longitude": -97.0328547
+    },
+    {
+      "year": "2019",
+      "location": "GREEN LAKE, Wisconsin",
+      "count": 2,
+      "Latitude": 43.8441481,
+      "Longitude": -88.9601133
+    },
+    {
+      "year": "2019",
+      "location": "GREENBRIER, West Virginia",
+      "count": 1,
+      "Latitude": 38.0198478,
+      "Longitude": -80.543845
+    },
+    {
+      "year": "2019",
+      "location": "GREENVILLE, South Carolina",
+      "count": 11,
+      "Latitude": 34.8526176,
+      "Longitude": -82.3940104
+    },
+    {
+      "year": "2019",
+      "location": "HALL, Georgia",
+      "count": 2,
+      "Latitude": 34.30778,
+      "Longitude": -83.804868
+    },
+    {
+      "year": "2019",
+      "location": "HAMPSHIRE, West Virginia",
+      "count": 1,
+      "Latitude": 39.3349019,
+      "Longitude": -78.5660852
+    },
+    {
+      "year": "2019",
+      "location": "HARFORD, Maryland",
+      "count": 2,
+      "Latitude": 39.5838964,
+      "Longitude": -76.3637285
+    },
+    {
+      "year": "2019",
+      "location": "HARRIS, Texas",
+      "count": 10,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2019",
+      "location": "HAYWOOD, North Carolina",
+      "count": 4,
+      "Latitude": 35.624394,
+      "Longitude": -82.9931607
+    },
+    {
+      "year": "2019",
+      "location": "HENNEPIN, Minnesota",
+      "count": 7,
+      "Latitude": 45.0208911,
+      "Longitude": -93.5094574
+    },
+    {
+      "year": "2019",
+      "location": "HENRICO, Virginia",
+      "count": 22,
+      "Latitude": 37.5059332,
+      "Longitude": -77.3324425
+    },
+    {
+      "year": "2019",
+      "location": "HERNANDO, Florida",
+      "count": 1,
+      "Latitude": 28.8999815,
+      "Longitude": -82.3745401
+    },
+    {
+      "year": "2019",
+      "location": "HILLSBOROUGH, Florida",
+      "count": 9,
+      "Latitude": 27.9903597,
+      "Longitude": -82.3017728
+    },
+    {
+      "year": "2019",
+      "location": "HOPKINS, Texas",
+      "count": 1,
+      "Latitude": 33.2282942,
+      "Longitude": -95.4777811
+    },
+    {
+      "year": "2019",
+      "location": "HORRY, South Carolina",
+      "count": 1,
+      "Latitude": 33.9196567,
+      "Longitude": -78.9288242
+    },
+    {
+      "year": "2019",
+      "location": "HOWARD, Maryland",
+      "count": 9,
+      "Latitude": 39.2873463,
+      "Longitude": -76.964306
+    },
+    {
+      "year": "2019",
+      "location": "HUBBARD, Minnesota",
+      "count": 1,
+      "Latitude": 47.1860527,
+      "Longitude": -94.9411423
+    },
+    {
+      "year": "2019",
+      "location": "HUNT, Texas",
+      "count": 5,
+      "Latitude": 30.0710434,
+      "Longitude": -99.3379764
+    },
+    {
+      "year": "2019",
+      "location": "HUNTINGTON, Indiana",
+      "count": 2,
+      "Latitude": 40.8831011,
+      "Longitude": -85.497476
+    },
+    {
+      "year": "2019",
+      "location": "ISANTI, Minnesota",
+      "count": 1,
+      "Latitude": 45.4894008,
+      "Longitude": -93.2476091
+    },
+    {
+      "year": "2019",
+      "location": "ITASCA, Minnesota",
+      "count": 1,
+      "Latitude": 47.5507924,
+      "Longitude": -93.5683651
+    },
+    {
+      "year": "2019",
+      "location": "JACKSON, Michigan",
+      "count": 1,
+      "Latitude": 42.245869,
+      "Longitude": -84.4013462
+    },
+    {
+      "year": "2019",
+      "location": "JACKSON, North Carolina",
+      "count": 1,
+      "Latitude": 36.3895976,
+      "Longitude": -77.4213614
+    },
+    {
+      "year": "2019",
+      "location": "JEFFERSON, Colorado",
+      "count": 2,
+      "Latitude": 39.377255,
+      "Longitude": -105.8005988
+    },
+    {
+      "year": "2019",
+      "location": "JEFFERSON, Louisiana",
+      "count": 6,
+      "Latitude": 29.9660371,
+      "Longitude": -90.1531298
+    },
+    {
+      "year": "2019",
+      "location": "JIM WELLS, Texas",
+      "count": 4,
+      "Latitude": 27.7841718,
+      "Longitude": -98.0465185
+    },
+    {
+      "year": "2019",
+      "location": "JOHNSTON, North Carolina",
+      "count": 1,
+      "Latitude": 35.4403514,
+      "Longitude": -78.3842227
+    },
+    {
+      "year": "2019",
+      "location": "KIMBLE, Texas",
+      "count": 1,
+      "Latitude": 30.4338473,
+      "Longitude": -99.8124935
+    },
+    {
+      "year": "2019",
+      "location": "KING, Washington",
+      "count": 4,
+      "Latitude": 47.5480339,
+      "Longitude": -121.9836029
+    },
+    {
+      "year": "2019",
+      "location": "KIOWA, Colorado",
+      "count": 3,
+      "Latitude": 39.3472095,
+      "Longitude": -104.4644112
+    },
+    {
+      "year": "2019",
+      "location": "KNOX, Kentucky",
+      "count": 1,
+      "Latitude": 36.9260578,
+      "Longitude": -83.8897057
+    },
+    {
+      "year": "2019",
+      "location": "LACLEDE, Missouri",
+      "count": 2,
+      "Latitude": 39.7855793,
+      "Longitude": -93.1665932
+    },
+    {
+      "year": "2019",
+      "location": "LAFAYETTE, Louisiana",
+      "count": 1,
+      "Latitude": 30.2240897,
+      "Longitude": -92.0198427
+    },
+    {
+      "year": "2019",
+      "location": "LAKE, Illinois",
+      "count": 2,
+      "Latitude": 42.3689363,
+      "Longitude": -87.8271534
+    },
+    {
+      "year": "2019",
+      "location": "LAPEER, Michigan",
+      "count": 2,
+      "Latitude": 43.0514161,
+      "Longitude": -83.3188341
+    },
+    {
+      "year": "2019",
+      "location": "LEE, Florida",
+      "count": 12,
+      "Latitude": 30.4196584,
+      "Longitude": -83.3004216
+    },
+    {
+      "year": "2019",
+      "location": "LEE, Virginia",
+      "count": 1,
+      "Latitude": 36.7075931,
+      "Longitude": -83.0361376
+    },
+    {
+      "year": "2019",
+      "location": "LINCOLN, West Virginia",
+      "count": 1,
+      "Latitude": 38.1761009,
+      "Longitude": -82.0842901
+    },
+    {
+      "year": "2019",
+      "location": "LOGAN, West Virginia",
+      "count": 3,
+      "Latitude": 37.8487147,
+      "Longitude": -81.9934581
+    },
+    {
+      "year": "2019",
+      "location": "LUNENBURG, Virginia",
+      "count": 1,
+      "Latitude": 36.9261435,
+      "Longitude": -78.2476146
+    },
+    {
+      "year": "2019",
+      "location": "MACKINAC, Michigan",
+      "count": 1,
+      "Latitude": 45.8683129,
+      "Longitude": -84.6275658
+    },
+    {
+      "year": "2019",
+      "location": "MACOMB, Michigan",
+      "count": 1,
+      "Latitude": 42.6651965,
+      "Longitude": -82.9286428
+    },
+    {
+      "year": "2019",
+      "location": "MARION, Indiana",
+      "count": 1,
+      "Latitude": 40.5583739,
+      "Longitude": -85.6591442
+    },
+    {
+      "year": "2019",
+      "location": "MARION, West Virginia",
+      "count": 1,
+      "Latitude": 39.5288627,
+      "Longitude": -80.2321313
+    },
+    {
+      "year": "2019",
+      "location": "MARSHALL, West Virginia",
+      "count": 1,
+      "Latitude": 38.4236242,
+      "Longitude": -82.4247401
+    },
+    {
+      "year": "2019",
+      "location": "MASON, West Virginia",
+      "count": 1,
+      "Latitude": 39.021745,
+      "Longitude": -82.0290296
+    },
+    {
+      "year": "2019",
+      "location": "MATHEWS, Virginia",
+      "count": 1,
+      "Latitude": 37.437006,
+      "Longitude": -76.3206618
+    },
+    {
+      "year": "2019",
+      "location": "MAUI, Hawaii",
+      "count": 1,
+      "Latitude": 20.7983626,
+      "Longitude": -156.3319253
+    },
+    {
+      "year": "2019",
+      "location": "MERCER, West Virginia",
+      "count": 2,
+      "Latitude": 37.4322638,
+      "Longitude": -81.1196075
+    },
+    {
+      "year": "2019",
+      "location": "MONTGOMERY, Ohio",
+      "count": 2,
+      "Latitude": 39.2281143,
+      "Longitude": -84.3541062
+    },
+    {
+      "year": "2019",
+      "location": "MONTGOMERY, Texas",
+      "count": 2,
+      "Latitude": 30.3882613,
+      "Longitude": -95.6963355
+    },
+    {
+      "year": "2019",
+      "location": "MORGAN, West Virginia",
+      "count": 1,
+      "Latitude": 39.5073361,
+      "Longitude": -78.2476146
+    },
+    {
+      "year": "2019",
+      "location": "MULTNOMAH, Oregon",
+      "count": 1,
+      "Latitude": 45.5145659,
+      "Longitude": -122.5863211
+    },
+    {
+      "year": "2019",
+      "location": "MUSKEGON, Michigan",
+      "count": 1,
+      "Latitude": 43.2341813,
+      "Longitude": -86.2483921
+    },
+    {
+      "year": "2019",
+      "location": "NEW CASTLE, Delaware",
+      "count": 5,
+      "Latitude": 39.6620397,
+      "Longitude": -75.5668166
+    },
+    {
+      "year": "2019",
+      "location": "NEW HANOVER, North Carolina",
+      "count": 1,
+      "Latitude": 34.2154913,
+      "Longitude": -77.8824596
+    },
+    {
+      "year": "2019",
+      "location": "NICHOLAS, West Virginia",
+      "count": 2,
+      "Latitude": 38.3307714,
+      "Longitude": -80.7657804
+    },
+    {
+      "year": "2019",
+      "location": "OHIO, West Virginia",
+      "count": 1,
+      "Latitude": 40.1111311,
+      "Longitude": -80.610489
+    },
+    {
+      "year": "2019",
+      "location": "ONEIDA, Wisconsin",
+      "count": 2,
+      "Latitude": 44.4799393,
+      "Longitude": -88.2266434
+    },
+    {
+      "year": "2019",
+      "location": "ORANGE, Florida",
+      "count": 6,
+      "Latitude": 29.1383165,
+      "Longitude": -80.9956105
+    },
+    {
+      "year": "2019",
+      "location": "OUTAGAMIE, Wisconsin",
+      "count": 1,
+      "Latitude": 44.4636545,
+      "Longitude": -88.4016041
+    },
+    {
+      "year": "2019",
+      "location": "PALM BEACH, Florida",
+      "count": 28,
+      "Latitude": 26.7056206,
+      "Longitude": -80.0364297
+    },
+    {
+      "year": "2019",
+      "location": "PASCO, Florida",
+      "count": 4,
+      "Latitude": 28.3232418,
+      "Longitude": -82.4319405
+    },
+    {
+      "year": "2019",
+      "location": "PAULDING, Georgia",
+      "count": 15,
+      "Latitude": 33.9142,
+      "Longitude": 84.8985
+    },
+    {
+      "year": "2019",
+      "location": "PEACH, Georgia",
+      "count": 2,
+      "Latitude": 32.5892926,
+      "Longitude": -83.8260884
+    },
+    {
+      "year": "2019",
+      "location": "PIERCE, Georgia",
+      "count": 2,
+      "Latitude": 31.343806,
+      "Longitude": -82.1713632
+    },
+    {
+      "year": "2019",
+      "location": "PIKE, Kentucky",
+      "count": 1,
+      "Latitude": 37.4842087,
+      "Longitude": -82.4752757
+    },
+    {
+      "year": "2019",
+      "location": "PINE, Minnesota",
+      "count": 1,
+      "Latitude": 46.0983087,
+      "Longitude": -92.8070708
+    },
+    {
+      "year": "2019",
+      "location": "POCAHONTAS, West Virginia",
+      "count": 1,
+      "Latitude": 38.3101706,
+      "Longitude": -80.0087746
+    },
+    {
+      "year": "2019",
+      "location": "PONTOTOC, Mississippi",
+      "count": 1,
+      "Latitude": 34.2478831,
+      "Longitude": -88.998673
+    },
+    {
+      "year": "2019",
+      "location": "PRINCE GEORGE'S, Maryland",
+      "count": 9,
+      "Latitude": 38.7849211,
+      "Longitude": -76.8720961
+    },
+    {
+      "year": "2019",
+      "location": "PRINCE WILLIAM, Virginia",
+      "count": 7,
+      "Latitude": 38.7838939,
+      "Longitude": -77.6077865
+    },
+    {
+      "year": "2019",
+      "location": "RALEIGH, West Virginia",
+      "count": 7,
+      "Latitude": 37.7381597,
+      "Longitude": -81.2518833
+    },
+    {
+      "year": "2019",
+      "location": "RANDOLPH, Illinois",
+      "count": 2,
+      "Latitude": 38.0629321,
+      "Longitude": -89.7755338
+    },
+    {
+      "year": "2019",
+      "location": "RANDOLPH, West Virginia",
+      "count": 5,
+      "Latitude": 38.8092552,
+      "Longitude": -80.0087746
+    },
+    {
+      "year": "2019",
+      "location": "RICHLAND, South Carolina",
+      "count": 1,
+      "Latitude": 34.0412165,
+      "Longitude": -80.9428911
+    },
+    {
+      "year": "2019",
+      "location": "RITCHIE, West Virginia",
+      "count": 3,
+      "Latitude": 39.1822303,
+      "Longitude": -81.0312989
+    },
+    {
+      "year": "2019",
+      "location": "ROANE, West Virginia",
+      "count": 3,
+      "Latitude": 38.7564882,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2019",
+      "location": "ROSEAU, Minnesota",
+      "count": 1,
+      "Latitude": 48.8460926,
+      "Longitude": -95.762766
+    },
+    {
+      "year": "2019",
+      "location": "RUTHERFORD, Tennessee",
+      "count": 2,
+      "Latitude": 35.7724263,
+      "Longitude": -86.3376761
+    },
+    {
+      "year": "2019",
+      "location": "SAN PATRICIO, Texas",
+      "count": 1,
+      "Latitude": 27.9544619,
+      "Longitude": -97.7719419
+    },
+    {
+      "year": "2019",
+      "location": "SCOTLAND, North Carolina",
+      "count": 1,
+      "Latitude": 34.8451203,
+      "Longitude": -79.4703885
+    },
+    {
+      "year": "2019",
+      "location": "SEMINOLE, Florida",
+      "count": 2,
+      "Latitude": 27.8397466,
+      "Longitude": -82.7912134
+    },
+    {
+      "year": "2019",
+      "location": "SHELBY, Tennessee",
+      "count": 1,
+      "Latitude": 35.1268552,
+      "Longitude": -89.9253233
+    },
+    {
+      "year": "2019",
+      "location": "SPOKANE, Washington",
+      "count": 1,
+      "Latitude": 47.6587802,
+      "Longitude": -117.4260465
+    },
+    {
+      "year": "2019",
+      "location": "ST LOUIS, Minnesota",
+      "count": 1,
+      "Latitude": 47.7395106,
+      "Longitude": -92.3623921
+    },
+    {
+      "year": "2019",
+      "location": "ST LOUIS, Missouri",
+      "count": 9,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2019",
+      "location": "ST TAMMANY, Louisiana",
+      "count": 1,
+      "Latitude": 30.4357418,
+      "Longitude": -89.9253233
+    },
+    {
+      "year": "2019",
+      "location": "STAFFORD, Virginia",
+      "count": 1,
+      "Latitude": 38.4220687,
+      "Longitude": -77.4083086
+    },
+    {
+      "year": "2019",
+      "location": "STEVENS, Minnesota",
+      "count": 1,
+      "Latitude": 45.5215118,
+      "Longitude": -95.9522178
+    },
+    {
+      "year": "2019",
+      "location": "SUMMERS, West Virginia",
+      "count": 1,
+      "Latitude": 37.5812062,
+      "Longitude": -80.8543847
+    },
+    {
+      "year": "2019",
+      "location": "SUSSEX, Delaware",
+      "count": 14,
+      "Latitude": 38.6530841,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2019",
+      "location": "SWISHER, Texas",
+      "count": 1,
+      "Latitude": 34.5532757,
+      "Longitude": -101.7979613
+    },
+    {
+      "year": "2019",
+      "location": "TARRANT, Texas",
+      "count": 13,
+      "Latitude": 32.7732044,
+      "Longitude": -97.3516558
+    },
+    {
+      "year": "2019",
+      "location": "TWIGGS, Georgia",
+      "count": 1,
+      "Latitude": 32.68356,
+      "Longitude": -83.4643551
+    },
+    {
+      "year": "2019",
+      "location": "UNION, South Carolina",
+      "count": 1,
+      "Latitude": 34.7154122,
+      "Longitude": -81.623711
+    },
+    {
+      "year": "2019",
+      "location": "VIGO, Indiana",
+      "count": 3,
+      "Latitude": 39.4165382,
+      "Longitude": -87.4207518
+    },
+    {
+      "year": "2019",
+      "location": "VOLUSIA, Florida",
+      "count": 1,
+      "Latitude": 29.0279842,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2019",
+      "location": "WARD, North Dakota",
+      "count": 1,
+      "Latitude": 48.2147451,
+      "Longitude": -101.5805256
+    },
+    {
+      "year": "2019",
+      "location": "WARREN, Virginia",
+      "count": 1,
+      "Latitude": 38.9331749,
+      "Longitude": -78.2476146
+    },
+    {
+      "year": "2019",
+      "location": "WASHINGTON, Oregon",
+      "count": 2,
+      "Latitude": 45.5469616,
+      "Longitude": -123.1386021
+    },
+    {
+      "year": "2019",
+      "location": "WAYNE, Michigan",
+      "count": 1,
+      "Latitude": 42.2814269,
+      "Longitude": -83.3863214
+    },
+    {
+      "year": "2019",
+      "location": "WAYNE, West Virginia",
+      "count": 1,
+      "Latitude": 38.2214748,
+      "Longitude": -82.4423747
+    },
+    {
+      "year": "2019",
+      "location": "WEBB, Texas",
+      "count": 22,
+      "Latitude": 27.7925109,
+      "Longitude": -99.4228149
+    },
+    {
+      "year": "2019",
+      "location": "WEBSTER, Louisiana",
+      "count": 1,
+      "Latitude": 32.7641355,
+      "Longitude": -93.3388917
+    },
+    {
+      "year": "2019",
+      "location": "WHITFIELD, Georgia",
+      "count": 2,
+      "Latitude": 34.8033566,
+      "Longitude": -84.981754
+    },
+    {
+      "year": "2019",
+      "location": "WINNEBAGO, Illinois",
+      "count": 2,
+      "Latitude": 42.2661311,
+      "Longitude": -89.2412202
+    },
+    {
+      "year": "2019",
+      "location": "WINNEBAGO, Wisconsin",
+      "count": 1,
+      "Latitude": 44.0126679,
+      "Longitude": -88.7108964
+    },
+    {
+      "year": "2019",
+      "location": "WOOD, West Virginia",
+      "count": 4,
+      "Latitude": 39.2154345,
+      "Longitude": -81.4718387
+    },
+    {
+      "year": "2019",
+      "location": "WYOMING, West Virginia",
+      "count": 1,
+      "Latitude": 37.6339466,
+      "Longitude": -81.5596427
+    },
+    {
+      "year": "2019",
+      "location": "ZAVALA, Texas",
+      "count": 1,
+      "Latitude": 28.8801264,
+      "Longitude": -99.7232673
+    },
+    {
+      "year": "2020",
+      "location": "ACCOMACK, Virginia",
+      "count": 3,
+      "Latitude": 37.7063323,
+      "Longitude": -75.8069082
+    },
+    {
+      "year": "2020",
+      "location": "ADAMS, Nebraska",
+      "count": 1,
+      "Latitude": 40.4611108,
+      "Longitude": -96.5094615
+    },
+    {
+      "year": "2020",
+      "location": "ALLEGHENY, Pennsylvania",
+      "count": 2,
+      "Latitude": 40.4450813,
+      "Longitude": -80.0087746
+    },
+    {
+      "year": "2020",
+      "location": "ALLEN, Ohio",
+      "count": 1,
+      "Latitude": 40.769946,
+      "Longitude": -84.1435136
+    },
+    {
+      "year": "2020",
+      "location": "ANNE ARUNDEL, Maryland",
+      "count": 2,
+      "Latitude": 38.9530109,
+      "Longitude": -76.5488232
+    },
+    {
+      "year": "2020",
+      "location": "ASHLAND, Ohio",
+      "count": 1,
+      "Latitude": 40.8686675,
+      "Longitude": -82.3182178
+    },
+    {
+      "year": "2020",
+      "location": "ATASCOSA, Texas",
+      "count": 8,
+      "Latitude": 28.8661281,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2020",
+      "location": "BAKER, Florida",
+      "count": 1,
+      "Latitude": 30.7971318,
+      "Longitude": -86.681344
+    },
+    {
+      "year": "2020",
+      "location": "BALTIMORE, Maryland",
+      "count": 1,
+      "Latitude": 39.2903848,
+      "Longitude": -76.6121893
+    },
+    {
+      "year": "2020",
+      "location": "BEE, Texas",
+      "count": 1,
+      "Latitude": 28.3624206,
+      "Longitude": -97.6982272
+    },
+    {
+      "year": "2020",
+      "location": "BELL, Texas",
+      "count": 1,
+      "Latitude": 31.134411,
+      "Longitude": -97.5247243
+    },
+    {
+      "year": "2020",
+      "location": "BERKELEY, South Carolina",
+      "count": 1,
+      "Latitude": 33.1260618,
+      "Longitude": -80.0087746
+    },
+    {
+      "year": "2020",
+      "location": "BERKELEY, West Virginia",
+      "count": 10,
+      "Latitude": 39.4885604,
+      "Longitude": -78.0651931
+    },
+    {
+      "year": "2020",
+      "location": "BEXAR, Texas",
+      "count": 1,
+      "Latitude": 29.4200763,
+      "Longitude": -98.5721016
+    },
+    {
+      "year": "2020",
+      "location": "BIBB, Georgia",
+      "count": 8,
+      "Latitude": 32.7865735,
+      "Longitude": -83.7199136
+    },
+    {
+      "year": "2020",
+      "location": "BOONE, Kentucky",
+      "count": 1,
+      "Latitude": 38.9940572,
+      "Longitude": -84.7315563
+    },
+    {
+      "year": "2020",
+      "location": "BOONE, West Virginia",
+      "count": 3,
+      "Latitude": 37.9838605,
+      "Longitude": -81.734942
+    },
+    {
+      "year": "2020",
+      "location": "BOSSIER, Louisiana",
+      "count": 1,
+      "Latitude": 32.5159852,
+      "Longitude": -93.7321228
+    },
+    {
+      "year": "2020",
+      "location": "BOX ELDER, Utah",
+      "count": 2,
+      "Latitude": 41.5380087,
+      "Longitude": -113.1918021
+    },
+    {
+      "year": "2020",
+      "location": "BRANTLEY, Georgia",
+      "count": 3,
+      "Latitude": 31.1510963,
+      "Longitude": -81.9971108
+    },
+    {
+      "year": "2020",
+      "location": "BRAXTON, West Virginia",
+      "count": 1,
+      "Latitude": 38.7023371,
+      "Longitude": -80.7214417
+    },
+    {
+      "year": "2020",
+      "location": "BROOKE, West Virginia",
+      "count": 1,
+      "Latitude": 40.2697757,
+      "Longitude": -80.5660657
+    },
+    {
+      "year": "2020",
+      "location": "BURNETT, Wisconsin",
+      "count": 1,
+      "Latitude": 43.504715,
+      "Longitude": -88.707049
+    },
+    {
+      "year": "2020",
+      "location": "CAMDEN, Missouri",
+      "count": 1,
+      "Latitude": 38.0322944,
+      "Longitude": -92.6983868
+    },
+    {
+      "year": "2020",
+      "location": "CAMPBELL, Wyoming",
+      "count": 1,
+      "Latitude": 44.3956107,
+      "Longitude": -105.4489183
+    },
+    {
+      "year": "2020",
+      "location": "CAROLINE, Virginia",
+      "count": 1,
+      "Latitude": 38.0445557,
+      "Longitude": -77.2864879
+    },
+    {
+      "year": "2020",
+      "location": "CARROLL, Virginia",
+      "count": 1,
+      "Latitude": 36.6778699,
+      "Longitude": -80.7214417
+    },
+    {
+      "year": "2020",
+      "location": "CARSON CITY, Nevada",
+      "count": 1,
+      "Latitude": 39.1637984,
+      "Longitude": -119.7674034
+    },
+    {
+      "year": "2020",
+      "location": "CARVER, Minnesota",
+      "count": 1,
+      "Latitude": 44.7633943,
+      "Longitude": -93.6254404
+    },
+    {
+      "year": "2020",
+      "location": "CASTRO, Texas",
+      "count": 1,
+      "Latitude": 34.4985047,
+      "Longitude": -102.3463875
+    },
+    {
+      "year": "2020",
+      "location": "CATAWBA, North Carolina",
+      "count": 2,
+      "Latitude": 35.7073558,
+      "Longitude": -81.0756345
+    },
+    {
+      "year": "2020",
+      "location": "CHAMBERS, Texas",
+      "count": 3,
+      "Latitude": 29.7524956,
+      "Longitude": -94.6863782
+    },
+    {
+      "year": "2020",
+      "location": "CHARLEVOIX, Michigan",
+      "count": 1,
+      "Latitude": 45.3180632,
+      "Longitude": -85.2584004
+    },
+    {
+      "year": "2020",
+      "location": "CHEROKEE, Georgia",
+      "count": 1,
+      "Latitude": 34.2514526,
+      "Longitude": -84.4802606
+    },
+    {
+      "year": "2020",
+      "location": "CHESTERFIELD, Virginia",
+      "count": 4,
+      "Latitude": 37.3673217,
+      "Longitude": -77.6077865
+    },
+    {
+      "year": "2020",
+      "location": "CLARK, Washington",
+      "count": 1,
+      "Latitude": 33.8742823,
+      "Longitude": -84.2774915
+    },
+    {
+      "year": "2020",
+      "location": "CLAYTON, Georgia",
+      "count": 8,
+      "Latitude": 34.8781479,
+      "Longitude": -83.4009933
+    },
+    {
+      "year": "2020",
+      "location": "COBB, Georgia",
+      "count": 16,
+      "Latitude": 33.8999297,
+      "Longitude": -84.564147
+    },
+    {
+      "year": "2020",
+      "location": "COFFEE, Georgia",
+      "count": 1,
+      "Latitude": 31.5182285,
+      "Longitude": -82.820974
+    },
+    {
+      "year": "2020",
+      "location": "COLLIER, Florida",
+      "count": 3,
+      "Latitude": 26.069985,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2020",
+      "location": "COOK, Illinois",
+      "count": 1,
+      "Latitude": 41.7376587,
+      "Longitude": -87.697554
+    },
+    {
+      "year": "2020",
+      "location": "COOKE, Texas",
+      "count": 3,
+      "Latitude": 33.6672185,
+      "Longitude": -97.3516558
+    },
+    {
+      "year": "2020",
+      "location": "COWETA, Georgia",
+      "count": 10,
+      "Latitude": 33.3716708,
+      "Longitude": -84.7315563
+    },
+    {
+      "year": "2020",
+      "location": "CRAWFORD, Georgia",
+      "count": 1,
+      "Latitude": 33.8828954,
+      "Longitude": -83.154596
+    },
+    {
+      "year": "2020",
+      "location": "CRAWFORD, Michigan",
+      "count": 1,
+      "Latitude": 44.6524316,
+      "Longitude": -84.6897495
+    },
+    {
+      "year": "2020",
+      "location": "CULPEPER, Virginia",
+      "count": 1,
+      "Latitude": 38.4733409,
+      "Longitude": -77.9961308
+    },
+    {
+      "year": "2020",
+      "location": "CUMBERLAND, North Carolina",
+      "count": 4,
+      "Latitude": 34.9542604,
+      "Longitude": -78.7476208
+    },
+    {
+      "year": "2020",
+      "location": "CUMBERLAND, Virginia",
+      "count": 1,
+      "Latitude": 37.4963918,
+      "Longitude": -78.2448664
+    },
+    {
+      "year": "2020",
+      "location": "DEKALB, Georgia",
+      "count": 27,
+      "Latitude": 33.7956441,
+      "Longitude": -84.2278796
+    },
+    {
+      "year": "2020",
+      "location": "DODGE, Georgia",
+      "count": 1,
+      "Latitude": 34.0954235,
+      "Longitude": -84.0104335
+    },
+    {
+      "year": "2020",
+      "location": "DOUGLAS, Colorado",
+      "count": 1,
+      "Latitude": 39.2587106,
+      "Longitude": -104.9388853
+    },
+    {
+      "year": "2020",
+      "location": "DOUGLAS, Georgia",
+      "count": 6,
+      "Latitude": 31.5088073,
+      "Longitude": -82.8498654
+    },
+    {
+      "year": "2020",
+      "location": "DURHAM, North Carolina",
+      "count": 1,
+      "Latitude": 35.9940329,
+      "Longitude": -78.898619
+    },
+    {
+      "year": "2020",
+      "location": "EDWARDS, Texas",
+      "count": 43,
+      "Latitude": 29.9282955,
+      "Longitude": -100.439656
+    },
+    {
+      "year": "2020",
+      "location": "EFFINGHAM, Georgia",
+      "count": 1,
+      "Latitude": 32.378148,
+      "Longitude": -81.3839326
+    },
+    {
+      "year": "2020",
+      "location": "EL PASO, Texas",
+      "count": 1,
+      "Latitude": 31.7618778,
+      "Longitude": -106.4850217
+    },
+    {
+      "year": "2020",
+      "location": "ELLIS, Texas",
+      "count": 3,
+      "Latitude": 32.2619765,
+      "Longitude": -96.8350999
+    },
+    {
+      "year": "2020",
+      "location": "FAIRFAX, Virginia",
+      "count": 1,
+      "Latitude": 38.8462236,
+      "Longitude": -77.3063733
+    },
+    {
+      "year": "2020",
+      "location": "FAYETTE, West Virginia",
+      "count": 1,
+      "Latitude": 38.0615913,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2020",
+      "location": "FLAGLER, Florida",
+      "count": 1,
+      "Latitude": 29.4086072,
+      "Longitude": -81.2518833
+    },
+    {
+      "year": "2020",
+      "location": "FLOYD, Georgia",
+      "count": 22,
+      "Latitude": 34.2828967,
+      "Longitude": -85.2308414
+    },
+    {
+      "year": "2020",
+      "location": "FORT BEND, Texas",
+      "count": 6,
+      "Latitude": 29.5692614,
+      "Longitude": -95.8142885
+    },
+    {
+      "year": "2020",
+      "location": "FRANKLIN, Kentucky",
+      "count": 3,
+      "Latitude": 36.7187855,
+      "Longitude": -86.5785573
+    },
+    {
+      "year": "2020",
+      "location": "FULTON, Georgia",
+      "count": 1,
+      "Latitude": 33.8033965,
+      "Longitude": -84.3962535
+    },
+    {
+      "year": "2020",
+      "location": "GALVESTON, Texas",
+      "count": 1,
+      "Latitude": 29.3013479,
+      "Longitude": -94.7976958
+    },
+    {
+      "year": "2020",
+      "location": "GENESEE, Michigan",
+      "count": 20,
+      "Latitude": 43.0777289,
+      "Longitude": -83.6773928
+    },
+    {
+      "year": "2020",
+      "location": "GOLIAD, Texas",
+      "count": 1,
+      "Latitude": 28.6683252,
+      "Longitude": -97.3883265
+    },
+    {
+      "year": "2020",
+      "location": "GREENVILLE, South Carolina",
+      "count": 3,
+      "Latitude": 34.8526176,
+      "Longitude": -82.3940104
+    },
+    {
+      "year": "2020",
+      "location": "HALL, Georgia",
+      "count": 1,
+      "Latitude": 34.30778,
+      "Longitude": -83.804868
+    },
+    {
+      "year": "2020",
+      "location": "HAMILTON, Tennessee",
+      "count": 1,
+      "Latitude": 35.1618966,
+      "Longitude": -85.1479364
+    },
+    {
+      "year": "2020",
+      "location": "HARDY, West Virginia",
+      "count": 2,
+      "Latitude": 39.0416116,
+      "Longitude": -78.9288242
+    },
+    {
+      "year": "2020",
+      "location": "HARFORD, Maryland",
+      "count": -1,
+      "Latitude": 39.5838964,
+      "Longitude": -76.3637285
+    },
+    {
+      "year": "2020",
+      "location": "HARRIS, Texas",
+      "count": 93,
+      "Latitude": 29.7751825,
+      "Longitude": -95.3102505
+    },
+    {
+      "year": "2020",
+      "location": "HAYWOOD, North Carolina",
+      "count": 2,
+      "Latitude": 35.624394,
+      "Longitude": -82.9931607
+    },
+    {
+      "year": "2020",
+      "location": "HENNEPIN, Minnesota",
+      "count": 1,
+      "Latitude": 45.0208911,
+      "Longitude": -93.5094574
+    },
+    {
+      "year": "2020",
+      "location": "HENRICO, Virginia",
+      "count": 25,
+      "Latitude": 37.5059332,
+      "Longitude": -77.3324425
+    },
+    {
+      "year": "2020",
+      "location": "HERNANDO, Florida",
+      "count": 1,
+      "Latitude": 28.8999815,
+      "Longitude": -82.3745401
+    },
+    {
+      "year": "2020",
+      "location": "HILLSBOROUGH, Florida",
+      "count": 25,
+      "Latitude": 27.9903597,
+      "Longitude": -82.3017728
+    },
+    {
+      "year": "2020",
+      "location": "HILLSDALE, Michigan",
+      "count": 1,
+      "Latitude": 41.9200472,
+      "Longitude": -84.6305101
+    },
+    {
+      "year": "2020",
+      "location": "HOPKINS, Texas",
+      "count": 1,
+      "Latitude": 33.2282942,
+      "Longitude": -95.4777811
+    },
+    {
+      "year": "2020",
+      "location": "HORRY, South Carolina",
+      "count": 3,
+      "Latitude": 33.9196567,
+      "Longitude": -78.9288242
+    },
+    {
+      "year": "2020",
+      "location": "HOWARD, Maryland",
+      "count": 7,
+      "Latitude": 39.2873463,
+      "Longitude": -76.964306
+    },
+    {
+      "year": "2020",
+      "location": "INGHAM, Michigan",
+      "count": 2,
+      "Latitude": 42.6468943,
+      "Longitude": -84.3542049
+    },
+    {
+      "year": "2020",
+      "location": "JACKSON, Michigan",
+      "count": 1,
+      "Latitude": 42.245869,
+      "Longitude": -84.4013462
+    },
+    {
+      "year": "2020",
+      "location": "JASPER, Missouri",
+      "count": 1,
+      "Latitude": 37.3361642,
+      "Longitude": -94.301336
+    },
+    {
+      "year": "2020",
+      "location": "JEFFERSON, Louisiana",
+      "count": 1,
+      "Latitude": 29.9660371,
+      "Longitude": -90.1531298
+    },
+    {
+      "year": "2020",
+      "location": "KANAWHA, West Virginia",
+      "count": 10,
+      "Latitude": 38.2556905,
+      "Longitude": -81.4278984
+    },
+    {
+      "year": "2020",
+      "location": "KENT, Michigan",
+      "count": 1,
+      "Latitude": 43.0097027,
+      "Longitude": -85.520024
+    },
+    {
+      "year": "2020",
+      "location": "KOSCIUSKO, Indiana",
+      "count": 1,
+      "Latitude": 41.2864679,
+      "Longitude": -85.8486236
+    },
+    {
+      "year": "2020",
+      "location": "LAKE OF THE WOODS, Minnesota",
+      "count": 1,
+      "Latitude": 48.6943855,
+      "Longitude": -94.9265474
+    },
+    {
+      "year": "2020",
+      "location": "LANCASTER, South Carolina",
+      "count": 2,
+      "Latitude": 34.7204257,
+      "Longitude": -80.7709014
+    },
+    {
+      "year": "2020",
+      "location": "LEE, Florida",
+      "count": 14,
+      "Latitude": 30.4196584,
+      "Longitude": -83.3004216
+    },
+    {
+      "year": "2020",
+      "location": "LEWIS, West Virginia",
+      "count": 2,
+      "Latitude": 39.0196167,
+      "Longitude": -80.543845
+    },
+    {
+      "year": "2020",
+      "location": "LEXINGTON, South Carolina",
+      "count": 4,
+      "Latitude": 33.9815369,
+      "Longitude": -81.2362107
+    },
+    {
+      "year": "2020",
+      "location": "LINCOLN, West Virginia",
+      "count": 1,
+      "Latitude": 38.1761009,
+      "Longitude": -82.0842901
+    },
+    {
+      "year": "2020",
+      "location": "LOGAN, West Virginia",
+      "count": 2,
+      "Latitude": 37.8487147,
+      "Longitude": -81.9934581
+    },
+    {
+      "year": "2020",
+      "location": "LOWNDES, Georgia",
+      "count": 10,
+      "Latitude": 30.8600022,
+      "Longitude": -83.2934086
+    },
+    {
+      "year": "2020",
+      "location": "MACOMB, Michigan",
+      "count": 2,
+      "Latitude": 42.6651965,
+      "Longitude": -82.9286428
+    },
+    {
+      "year": "2020",
+      "location": "MARATHON, Wisconsin",
+      "count": 2,
+      "Latitude": 44.850452,
+      "Longitude": -89.8505012
+    },
+    {
+      "year": "2020",
+      "location": "MARSHALL, West Virginia",
+      "count": 2,
+      "Latitude": 38.4236242,
+      "Longitude": -82.4247401
+    },
+    {
+      "year": "2020",
+      "location": "MASON, West Virginia",
+      "count": 3,
+      "Latitude": 39.021745,
+      "Longitude": -82.0290296
+    },
+    {
+      "year": "2020",
+      "location": "MCDONALD, Missouri",
+      "count": 1,
+      "Latitude": 36.617812,
+      "Longitude": -94.315422
+    },
+    {
+      "year": "2020",
+      "location": "MCLEAN, North Dakota",
+      "count": 1,
+      "Latitude": 47.6185079,
+      "Longitude": -101.131122
+    },
+    {
+      "year": "2020",
+      "location": "MERCER, West Virginia",
+      "count": 1,
+      "Latitude": 37.4322638,
+      "Longitude": -81.1196075
+    },
+    {
+      "year": "2020",
+      "location": "MERIWETHER, Georgia",
+      "count": 1,
+      "Latitude": 33.0561282,
+      "Longitude": -84.6897495
+    },
+    {
+      "year": "2020",
+      "location": "MERRIMACK, New Hampshire",
+      "count": 2,
+      "Latitude": 42.8678693,
+      "Longitude": -71.4948322
+    },
+    {
+      "year": "2020",
+      "location": "MILLE LACS, Minnesota",
+      "count": 1,
+      "Latitude": 46.2529828,
+      "Longitude": -93.6605345
+    },
+    {
+      "year": "2020",
+      "location": "MINERAL, West Virginia",
+      "count": 2,
+      "Latitude": 39.4068988,
+      "Longitude": -78.8835548
+    },
+    {
+      "year": "2020",
+      "location": "MONONGALIA, West Virginia",
+      "count": 3,
+      "Latitude": 39.6695849,
+      "Longitude": -79.9640339
+    },
+    {
+      "year": "2020",
+      "location": "MONROE, Indiana",
+      "count": 1,
+      "Latitude": 40.7450468,
+      "Longitude": -84.9369111
+    },
+    {
+      "year": "2020",
+      "location": "MONTGOMERY, Maryland",
+      "count": 3,
+      "Latitude": 39.1547426,
+      "Longitude": -77.2405153
+    },
+    {
+      "year": "2020",
+      "location": "MONTGOMERY, Ohio",
+      "count": 5,
+      "Latitude": 39.2281143,
+      "Longitude": -84.3541062
+    },
+    {
+      "year": "2020",
+      "location": "MONTGOMERY, Tennessee",
+      "count": 4,
+      "Latitude": 36.4960406,
+      "Longitude": -87.460397
+    },
+    {
+      "year": "2020",
+      "location": "MORGAN, West Virginia",
+      "count": 4,
+      "Latitude": 39.5073361,
+      "Longitude": -78.2476146
+    },
+    {
+      "year": "2020",
+      "location": "MORTON, North Dakota",
+      "count": 1,
+      "Latitude": 46.6683872,
+      "Longitude": -101.1621736
+    },
+    {
+      "year": "2020",
+      "location": "MULTNOMAH, Oregon",
+      "count": 1,
+      "Latitude": 45.5145659,
+      "Longitude": -122.5863211
+    },
+    {
+      "year": "2020",
+      "location": "MUSCOGEE, Georgia",
+      "count": 7,
+      "Latitude": 32.4794133,
+      "Longitude": -84.8984775
+    },
+    {
+      "year": "2020",
+      "location": "NEW CASTLE, Delaware",
+      "count": 4,
+      "Latitude": 39.6620397,
+      "Longitude": -75.5668166
+    },
+    {
+      "year": "2020",
+      "location": "NEWTON, Georgia",
+      "count": 1,
+      "Latitude": 31.3129575,
+      "Longitude": -84.3357424
+    },
+    {
+      "year": "2020",
+      "location": "NICHOLAS, West Virginia",
+      "count": 1,
+      "Latitude": 38.3307714,
+      "Longitude": -80.7657804
+    },
+    {
+      "year": "2020",
+      "location": "NYE, Nevada",
+      "count": 1,
+      "Latitude": 38.5807111,
+      "Longitude": -116.0413889
+    },
+    {
+      "year": "2020",
+      "location": "OAKLAND, Michigan",
+      "count": 1,
+      "Latitude": 42.5921924,
+      "Longitude": -83.336188
+    },
+    {
+      "year": "2020",
+      "location": "ORANGE, Florida",
+      "count": 14,
+      "Latitude": 29.1383165,
+      "Longitude": -80.9956105
+    },
+    {
+      "year": "2020",
+      "location": "OUTAGAMIE, Wisconsin",
+      "count": 1,
+      "Latitude": 44.4636545,
+      "Longitude": -88.4016041
+    },
+    {
+      "year": "2020",
+      "location": "PALM BEACH, Florida",
+      "count": 96,
+      "Latitude": 26.7056206,
+      "Longitude": -80.0364297
+    },
+    {
+      "year": "2020",
+      "location": "PASCO, Florida",
+      "count": 5,
+      "Latitude": 28.3232418,
+      "Longitude": -82.4319405
+    },
+    {
+      "year": "2020",
+      "location": "PATRICK, Virginia",
+      "count": 2,
+      "Latitude": 36.6886252,
+      "Longitude": -80.3213106
+    },
+    {
+      "year": "2020",
+      "location": "PAULDING, Georgia",
+      "count": 18,
+      "Latitude": 33.9142037,
+      "Longitude": -84.8984775
+    },
+    {
+      "year": "2020",
+      "location": "PERSON, North Carolina",
+      "count": 1,
+      "Latitude": 36.3528221,
+      "Longitude": -78.9288242
+    },
+    {
+      "year": "2020",
+      "location": "PICKAWAY, Ohio",
+      "count": 1,
+      "Latitude": 39.687828,
+      "Longitude": -82.9931607
+    },
+    {
+      "year": "2020",
+      "location": "PIERCE, Washington",
+      "count": 1,
+      "Latitude": 47.0675877,
+      "Longitude": -122.1295269
+    },
+    {
+      "year": "2020",
+      "location": "PITTSYLVANIA, Virginia",
+      "count": 2,
+      "Latitude": 36.7440186,
+      "Longitude": -79.4703885
+    },
+    {
+      "year": "2020",
+      "location": "PRINCE GEORGE'S, Maryland",
+      "count": 2,
+      "Latitude": 38.7849211,
+      "Longitude": -76.8720961
+    },
+    {
+      "year": "2020",
+      "location": "PRINCE GEORGE, Virginia",
+      "count": 1,
+      "Latitude": 37.1593052,
+      "Longitude": -77.2405153
+    },
+    {
+      "year": "2020",
+      "location": "PULASKI, Arkansas",
+      "count": 1,
+      "Latitude": 34.7538615,
+      "Longitude": -92.2236667
+    },
+    {
+      "year": "2020",
+      "location": "RACINE, Wisconsin",
+      "count": 2,
+      "Latitude": 42.7261309,
+      "Longitude": -87.7828523
+    },
+    {
+      "year": "2020",
+      "location": "RALEIGH, West Virginia",
+      "count": 1,
+      "Latitude": 37.7381597,
+      "Longitude": -81.2518833
+    },
+    {
+      "year": "2020",
+      "location": "RANDOLPH, Illinois",
+      "count": 1,
+      "Latitude": 38.0629321,
+      "Longitude": -89.7755338
+    },
+    {
+      "year": "2020",
+      "location": "RITCHIE, West Virginia",
+      "count": 1,
+      "Latitude": 39.1822303,
+      "Longitude": -81.0312989
+    },
+    {
+      "year": "2020",
+      "location": "ROANOKE, Virginia",
+      "count": 1,
+      "Latitude": 37.2709704,
+      "Longitude": -79.9414266
+    },
+    {
+      "year": "2020",
+      "location": "RUSSELL, Virginia",
+      "count": 1,
+      "Latitude": 36.9904385,
+      "Longitude": -82.0842901
+    },
+    {
+      "year": "2020",
+      "location": "RUTHERFORD, Tennessee",
+      "count": 1,
+      "Latitude": 36.1275673,
+      "Longitude": -88.9858988
+    },
+    {
+      "year": "2020",
+      "location": "SALINE, Missouri",
+      "count": 1,
+      "Latitude": 39.1943564,
+      "Longitude": -93.1779659
+    },
+    {
+      "year": "2020",
+      "location": "SAN PATRICIO, Texas",
+      "count": 2,
+      "Latitude": 27.9544619,
+      "Longitude": -97.7719419
+    },
+    {
+      "year": "2020",
+      "location": "SCOTT, Virginia",
+      "count": 1,
+      "Latitude": 36.6815794,
+      "Longitude": -82.605118
+    },
+    {
+      "year": "2020",
+      "location": "SEMINOLE, Florida",
+      "count": 2,
+      "Latitude": 27.8397466,
+      "Longitude": -82.7912134
+    },
+    {
+      "year": "2020",
+      "location": "SHEBOYGAN, Wisconsin",
+      "count": 2,
+      "Latitude": 43.7508284,
+      "Longitude": -87.71453
+    },
+    {
+      "year": "2020",
+      "location": "SHELBY, Tennessee",
+      "count": 1,
+      "Latitude": 35.1268552,
+      "Longitude": -89.9253233
+    },
+    {
+      "year": "2020",
+      "location": "SHELBY, Texas",
+      "count": 1,
+      "Latitude": 30.0216106,
+      "Longitude": -96.5983064
+    },
+    {
+      "year": "2020",
+      "location": "SHERBURNE, Minnesota",
+      "count": 1,
+      "Latitude": 45.4644612,
+      "Longitude": -93.7298983
+    },
+    {
+      "year": "2020",
+      "location": "SHIAWASSEE, Michigan",
+      "count": 3,
+      "Latitude": 42.949754,
+      "Longitude": -84.1857115
+    },
+    {
+      "year": "2020",
+      "location": "SOUTHAMPTON, Virginia",
+      "count": 1,
+      "Latitude": 36.6788512,
+      "Longitude": -77.1024902
+    },
+    {
+      "year": "2020",
+      "location": "SPOKANE, Washington",
+      "count": 2,
+      "Latitude": 47.6587802,
+      "Longitude": -117.4260465
+    },
+    {
+      "year": "2020",
+      "location": "ST CHARLES, Missouri",
+      "count": 1,
+      "Latitude": 38.7881062,
+      "Longitude": -90.4974359
+    },
+    {
+      "year": "2020",
+      "location": "ST LOUIS, Minnesota",
+      "count": 3,
+      "Latitude": 47.7395106,
+      "Longitude": -92.3623921
+    },
+    {
+      "year": "2020",
+      "location": "ST LOUIS, Missouri",
+      "count": 6,
+      "Latitude": 38.6270025,
+      "Longitude": -90.1994042
+    },
+    {
+      "year": "2020",
+      "location": "STAFFORD, Virginia",
+      "count": 3,
+      "Latitude": 38.4220687,
+      "Longitude": -77.4083086
+    },
+    {
+      "year": "2020",
+      "location": "SUMMIT, Ohio",
+      "count": 1,
+      "Latitude": 41.0918991,
+      "Longitude": -81.5596427
+    },
+    {
+      "year": "2020",
+      "location": "SUSSEX, Delaware",
+      "count": 2,
+      "Latitude": 38.6530841,
+      "Longitude": -75.4344727
+    },
+    {
+      "year": "2020",
+      "location": "TARRANT, Texas",
+      "count": 4,
+      "Latitude": 32.7732044,
+      "Longitude": -97.3516558
+    },
+    {
+      "year": "2020",
+      "location": "TAZEWELL, Virginia",
+      "count": 2,
+      "Latitude": 37.1148374,
+      "Longitude": -81.5195548
+    },
+    {
+      "year": "2020",
+      "location": "THOMAS, Georgia",
+      "count": 3,
+      "Latitude": 30.8417409,
+      "Longitude": -83.8473015
+    },
+    {
+      "year": "2020",
+      "location": "TYLER, West Virginia",
+      "count": 2,
+      "Latitude": 39.4977025,
+      "Longitude": -80.8543847
+    },
+    {
+      "year": "2020",
+      "location": "UPSHUR, West Virginia",
+      "count": 1,
+      "Latitude": 38.8696797,
+      "Longitude": -80.2321313
+    },
+    {
+      "year": "2020",
+      "location": "VOLUSIA, Florida",
+      "count": 7,
+      "Latitude": 29.0279842,
+      "Longitude": -81.0754657
+    },
+    {
+      "year": "2020",
+      "location": "WARD, North Dakota",
+      "count": 1,
+      "Latitude": 48.2147451,
+      "Longitude": -101.5805256
+    },
+    {
+      "year": "2020",
+      "location": "WASHINGTON, Minnesota",
+      "count": 3,
+      "Latitude": 44.8896877,
+      "Longitude": -92.8577105
+    },
+    {
+      "year": "2020",
+      "location": "WASHINGTON, Oregon",
+      "count": 1,
+      "Latitude": 45.5469616,
+      "Longitude": -123.1386021
+    },
+    {
+      "year": "2020",
+      "location": "WASHOE, Nevada",
+      "count": 3,
+      "Latitude": 40.5608387,
+      "Longitude": -119.6035495
+    },
+    {
+      "year": "2020",
+      "location": "WAYNE, Michigan",
+      "count": 2,
+      "Latitude": 42.2814269,
+      "Longitude": -83.3863214
+    },
+    {
+      "year": "2020",
+      "location": "WAYNE, West Virginia",
+      "count": 1,
+      "Latitude": 38.2214748,
+      "Longitude": -82.4423747
+    },
+    {
+      "year": "2020",
+      "location": "WEBB, Texas",
+      "count": 17,
+      "Latitude": 27.7925109,
+      "Longitude": -99.4228149
+    },
+    {
+      "year": "2020",
+      "location": "WHITFIELD, Georgia",
+      "count": 2,
+      "Latitude": 34.8033566,
+      "Longitude": -84.981754
+    },
+    {
+      "year": "2020",
+      "location": "WOOD, West Virginia",
+      "count": 1,
+      "Latitude": 39.2154345,
+      "Longitude": -81.4718387
+    },
+    {
+      "year": "2020",
+      "location": "WRIGHT, Minnesota",
+      "count": 1,
+      "Latitude": 46.6715593,
+      "Longitude": -93.0074403
+    },
+    {
+      "year": "2020",
+      "location": "WYOMING, West Virginia",
+      "count": 1,
+      "Latitude": 37.6339466,
+      "Longitude": -81.5596427
+    },
+    {
+      "year": "2020",
+      "location": "ZAVALA, Texas",
+      "count": 2,
+      "Latitude": 28.8801264,
+      "Longitude": -99.7232673
+    }
+  ]},
+   {"metadata": [
+      {
+        "year": 2013,
+        "location": ["ALLEN, Ohio", "NELSON, Virginia", "ST LOUIS, Missouri"],
+        "count": [2, 1, 6]
+      },
+      {
+        "year": 2014,
+        "location": ["ARAPAHOE, Colorado","ARAPAHOE, Colorado",
+         "BEXAR, Texas",
+         "BOONE, Missouri",
+         "CHAMBERS, Texas",
+         "COLLIER, Florida",
+         "COOK, Illinois",
+         "HARRIS, Texas",
+         "HILLSBOROUGH, Florida",
+         "HORRY, South Carolina",
+         "INDIAN RIVER, Florida",
+         "JEFFERSON, Colorado",
+         "JIM HOGG, Texas",
+         "JIM WELLS, Texas",
+         "JOHNSON, Tennessee",
+         "LA SALLE, Texas",
+         "LEE, Florida",
+         "MADISON, Illinois",
+         "MANATEE, Florida",
+         "ORANGE, Florida",
+         "OSCEOLA, Florida",
+         "POLK, Minnesota",
+         "RANDOLPH, Illinois",
+         "SANGAMON, Illinois",
+         "SMITH, Texas",
+         "ST LOUIS, Missouri",
+         "WILLACY, Texas"
+         ],
+        "count": [4,3, 1, 2, 12, 1, 8, 4, 1, 3, 1, 1, 3, 1, 1, 1, 2, 1, 5, 4, 1, 2, 8, 1, 2, 5]
+      },
+     
+      {
+        "year": 2015,
+        "location": ["ALLEN, Ohio", "ANOKA, Minnesota", "ARAPAHOE, Colorado", "BEE, Texas", "BENTON, Washington", "BEXAR, Texas", "CARVER, Minnesota", "FAYETTE, Tennessee",
+         "FILLMORE, Minnesota", "FLOYD, Texas", "FREDERICK, Maryland", "GRAINGER, Tennessee", "GREENVILLE, South Carolina", "HARRIS, Texas", "HENRICO, Virginia", "HOWARD, Maryland",
+         "INGHAM, Michigan", "JIM WELLS, Texas", "KIMBLE, Texas", "LAURENS, South Carolina", "MONTGOMERY, Maryland", "NEWTON, Texas", "NICOLLET, Minnesota", "SHELBY, Tennessee",
+         "ST LOUIS, Missouri", "STEARNS, Minnesota", "WILLACY, Texas"],
+        "count": [2, 2, 5, 1, 1, 1, 3, 1, 1, 1, 1, 1, 10, 18, 2, 3, 4, 5, 1, 1, 5, 2, 2, 1, 6, 1, 9]
+       },
+   
+      {
+        "year": 2016,
+        "location": ["ALACHUA, Florida", "ALLEN, Ohio", "ANNE ARUNDEL, Maryland", "ARAPAHOE, Colorado", "BELTRAMI, Minnesota", "BEXAR, Texas", "BOSQUE, Texas", "CARBON, Wyoming",
+         "CHAMPAIGN, Illinois", "CHEROKEE, Oklahoma", "CLACKAMAS, Oregon", "COLLIER, Florida", "COOKE, Texas", "EATON, Michigan", "ESCAMBIA, Florida", "FORT BEND, Texas", 
+         "GREENVILLE, South Carolina", "GREGG, Texas", "HARRIS, Texas", "HENRICO, Virginia", "HIDALGO, Texas", "HILLSBOROUGH, Florida", "HOWARD, Maryland", "HUTCHINSON, Texas",
+         "JEFFERSON, Louisiana", "JIM WELLS, Texas", "JOHNSON, Tennessee", "KENT, Delaware", "KITSAP, Washington", "KLEBERG, Texas", "LEE, Florida", "MCKENZIE, North Dakota",
+         "MIAMI-DADE, Florida", "MONTGOMERY, Maryland", "NOLAN, Texas", "ORANGE, Florida", "OSCEOLA, Florida", "OTTER TAIL, Minnesota", "PALM BEACH, Florida", "RANDOLPH, Illinois",
+         "ROOSEVELT, Montana", "SEMINOLE, Florida", "ST LOUIS, Minnesota", "ST LOUIS, Missouri", "SUSSEX, Delaware", "TANGIPAHOA, Louisiana", "VOLUSIA, Florida", "WHITE, Arkansas",
+         "WILLACY, Texas", "WINNEBAGO, Illinois"],
+        "count": [1, 1, 2, 3, 1, 1, 1, 2, 1, 1, 1, 4, 1, 1, 2, 2, 13, 1, 23, 7, 1, 2, 6, 3, 114, 1, 1, 2, 1, 8, 4, 1, 42, 1, 1, 3, 1, 1, 9, 2, 1, 3, 1, 11, 10, 1, 2, 2, 20, 1]
+      },
+   
+      {
+        "year": 2017,
+        "location": ["ARAPAHOE, Colorado", "AUSTIN, Texas", "BEXAR, Texas", "BLUE EARTH, Minnesota", "BOWIE, Texas", "BOX ELDER, Utah", "BRAZOS, Texas", "BROWN, Wisconsin",
+         "CALEDONIA, Vermont", "CALHOUN, Michigan", "CAMDEN, Missouri", "CARVER, Minnesota", "CHAMBERS, Texas", "CHESTER, South Carolina", "CHITTENDEN, Vermont", "CLAIBORNE, Tennessee",
+         "CROCKETT, Tennessee", "CROW WING, Minnesota", "DANE, Wisconsin", "DOUGLAS, Colorado", "FRANKLIN, Kentucky", "GALLATIN, Montana", "GREENVILLE, South Carolina",
+         "HARDEMAN, Tennessee", "HARRIS, Texas", "HENNEPIN, Minnesota", "HENRICO, Virginia", "HIDALGO, Texas", "HOPKINS, Texas", "HOUSTON, Minnesota", "INGHAM, Michigan",
+         "JACKSON, Michigan", "JEFFERSON, Colorado", "JEFFERSON, Louisiana", "KALAMAZOO, Michigan", "KANKAKEE, Illinois", "KENT, Delaware", "KITSAP, Washington", "KNOX, Tennessee",
+         "LAFAYETTE, Louisiana", "LARIMER, Colorado", "LENAWEE, Michigan", "MACKINAC, Michigan", "MADISON, Illinois", "MADISON, Tennessee", "MAURY, Tennessee", "MONROE, Tennessee",
+         "MORTON, North Dakota", "NORFOLK, Massachusetts", "PICKENS, South Carolina", "PINAL, Arizona", "RANDALL, Texas", "RANDOLPH, Illinois", "SALUDA, South Carolina",
+         "SHELBY, Tennessee", "ST LOUIS, Missouri", "ST TAMMANY, Louisiana", "STARR, Texas", "STONE, Missouri", "SUSSEX, Delaware", "SWEETWATER, Wyoming", "WARD, North Dakota",
+         "WARREN, Kentucky", "WASHINGTON, Minnesota", "WASHINGTON, Oregon", "WASHTENAW, Michigan", "WAYNE, Michigan", "WEBB, Texas", "WILLACY, Texas", "WINNEBAGO, Illinois",
+         "WINONA, Minnesota"],
+        "count": [2, 1, 1, 10, 1, 1, 1, 12, 1, 1, 1, 3, 4, 1, 2, 1, 1, 1, 3, 1, 52, 1, 20, 1, 25, 1, 5, 1, 1, 4, 1, 1, 3, 51, 1, 1, 4, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 7, 1,
+         1, 1, 2, 16, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 43, 6, 2, 2]
+         },
+   
+      {
+        "year": 2018, 
+        "location": ["ADAMS, Colorado", "ALLEN, Kentucky", "BAY, Michigan", "BENSON, North Dakota", "BERKELEY, West Virginia", "BERRIEN, Michigan", "BEXAR, Texas", 
+         "BOLLINGER, Missouri", "BOULDER, Colorado", "BULLITT, Kentucky", "BURNET, Texas", "CARROLL, Virginia", "CHAMBERS, Texas", "CHEROKEE, South Carolina", "CHESTERFIELD, South Carolina",
+         "CLINTON, Michigan", "COLLIER, Florida", "COMAL, Texas", "CREEK, Oklahoma", "DALLAS, Texas", "DODGE, Wisconsin", "DUBOIS, Indiana", "EL PASO, Colorado", "FAYETTE, West Virginia",
+         "FORT BEND, Texas", "FRANKLIN, Kentucky", "FRANKLIN, Vermont", "FREEBORN, Minnesota", "GENESEE, Michigan", "GREENVILLE, South Carolina", "HAMILTON, Tennessee",
+         "HARRIS, Texas", "HARRISON, Mississippi", "HENNEPIN, Minnesota", "HENRICO, Virginia", "HERNANDO, Florida", "HILLSBOROUGH, Florida", "HORRY, South Carolina",
+         "INGHAM, Michigan", "IOSCO, Michigan", "ISANTI, Minnesota", "JACKSON, Michigan", "JEFFERSON, Colorado", "JEFFERSON, Louisiana", "JIM WELLS, Texas", "KALAMAZOO, Michigan",
+         "KANKAKEE, Illinois", "KENT, Michigan", "KING, Washington", "KITSAP, Washington", "KNOX, Illinois", "LAFAYETTE, Louisiana", "LAKE, Florida", "LAURENS, South Carolina",
+         "LEE, Florida", "LINCOLN, Wisconsin", "MACOMB, Michigan", "MANATEE, Florida", "MARION, Indiana", "MARION, Tennessee", "MARSHALL, Minnesota", "MARTIN, Minnesota",
+         "MIDLAND, Texas", "MISSAUKEE, Michigan", "MONTGOMERY, Tennessee", "MONTGOMERY, Texas", "NEW CASTLE, Delaware", "NODAWAY, Missouri", "ONEIDA, Wisconsin",  "ORANGE, Florida",
+         "OSCEOLA, Florida", "OSCEOLA, Michigan", "PALM BEACH, Florida", "PASCO, Florida", "PIMA, Arizona", "PINAL, Arizona", "POLK, Florida", "PRINCE WILLIAM, Virginia", 
+         "PUTNAM, Indiana", "RAMSEY, Minnesota", "RICE, Minnesota", "SAGINAW, Michigan", "SARASOTA, Florida", "SCHOOLCRAFT, Michigan", "SEMINOLE, Florida", "ST JOSEPH, Michigan",
+         "ST LOUIS, Missouri", "ST LUCIE, Florida", "STARR, Texas", "STEARNS, Minnesota", "STONE, Missouri", "SUSSEX, Delaware", "SWEETWATER, Wyoming", "TARRANT, Texas", 
+         "TULSA, Oklahoma", "VICTORIA, Texas", "VOLUSIA, Florida", "WASHINGTON, Vermont", "WAYNE, Michigan", "WEBB, Texas", "WILLACY, Texas", "WRIGHT, Minnesota"],
+        "count": [1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 10, 1, 2, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 1, 4, 2, 1, 13, 1, 7, 3, 11, 6, 1, 2, 1, 1, 2, 1, 3, 10, 1, 1, 1, 2, 1,
+         1, 6, 1, 2, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 3, 1, 1, 1, 6, 1, 1, 20, 3, 1, 2, 1, 3, 2, 1, 1, 1, 1, 1, 1, 2, 11, 1, 2, 2, 1, 3, 4, 34, 1, 1, 1, 1, 5, 6, 2, 2]
+      },
+   
+     
+      {
+        "year": "2019",
+        "location": ["ACCOMACK, Virginia", "ALBEMARLE, Virginia", "ALLEN, Kentucky", "ALLEN, Ohio", "AMHERST, Virginia", "ANNE ARUNDEL, Maryland", "ARAPAHOE, Colorado",
+         "ARLINGTON, Virginia", "BAKER, Florida", "BALTIMORE, Maryland", "BELL, Texas", "BERKELEY, West Virginia", "BERNALILLO, New Mexico", "BEXAR, Texas", "BOSSIER, Louisiana",
+         "BOWIE, Texas", "BRADLEY, Tennessee", "BRAXTON, West Virginia", "BROOKE, West Virginia", "BROWN, Wisconsin", "CARSON CITY, Nevada", "CATAWBA, North Carolina",
+         "CHAMBERS, Texas", "CHEROKEE, Georgia", "CHESTERFIELD, Virginia", "CHITTENDEN, Vermont", "CLAY, Indiana", "CLAYTON, Georgia", "CLEVELAND, North Carolina", "COBB, Georgia",
+         "COLLIER, Florida", "CONCHO, Texas", "COOKE, Texas", "COWETA, Georgia", "CUMBERLAND, North Carolina", "DEKALB, Georgia", "DODDRIDGE, West Virginia", "DODGE, Wisconsin",
+         "DOUGLAS, Colorado", "DOUGLAS, Nebraska", "DUPAGE, Illinois", "EAU CLAIRE, Wisconsin", "EDWARDS, Texas", "ELLIS, Texas", "FANNIN, Georgia", "FAYETTE, West Virginia",
+         "FLAGLER, Florida", "FRANKLIN, Kentucky", "FULTON, Georgia", "GENESEE, Michigan", "GEORGETOWN, South Carolina", "GILMER, West Virginia", "GRAHAM, North Carolina",
+         "GRAND FORKS, North Dakota", "GREEN LAKE, Wisconsin", "GREENBRIER, West Virginia", "GREENVILLE, South Carolina", "HALL, Georgia", "HAMPSHIRE, West Virginia",
+         "HARFORD, Maryland", "HARRIS, Texas", "HAYWOOD, North Carolina", "HENNEPIN, Minnesota", "HENRICO, Virginia", "HERNANDO, Florida", "HILLSBOROUGH, Florida", "HOPKINS, Texas",
+         "HORRY, South Carolina",  "HOWARD, Maryland", "HUBBARD, Minnesota", "HUNT, Texas", "HUNTINGTON, Indiana", "ISANTI, Minnesota", "ITASCA, Minnesota", "JACKSON, Michigan",
+         "JACKSON, North Carolina", "JEFFERSON, Colorado", "JEFFERSON, Louisiana", "JIM WELLS, Texas", "JOHNSTON, North Carolina", "KIMBLE, Texas", "KING, Washington", "KIOWA, Colorado",
+         "KNOX, Kentucky", "LACLEDE, Missouri", "LAFAYETTE, Louisiana", "LAKE, Illinois", "LAPEER, Michigan", "LEE, Florida", "LEE, Virginia", "LINCOLN, West Virginia",
+         "LOGAN, West Virginia", "LUNENBURG, Virginia", "MACKINAC, Michigan", "MACOMB, Michigan", "MARION, Indiana", "MARION, West Virginia", "MARSHALL, West Virginia",
+         "MASON, West Virginia", "MATHEWS, Virginia", "MAUI, Hawaii", "MERCER, West Virginia", "MONTGOMERY, Ohio", "MONTGOMERY, Texas", "MORGAN, West Virginia", "MULTNOMAH, Oregon",
+         "MUSKEGON, Michigan", "NEW CASTLE, Delaware", "NEW HANOVER, North Carolina", "NICHOLAS, West Virginia", "OHIO, West Virginia", "ONEIDA, Wisconsin", "ORANGE, Florida",
+         "OUTAGAMIE, Wisconsin", "PALM BEACH, Florida", "PASCO, Florida",  "PAULDING, Georgia", "PEACH, Georgia", "PIERCE, Georgia", "PIKE, Kentucky", "PINE, Minnesota", 
+         "POCAHONTAS, West Virginia", "PONTOTOC, Mississippi", "PRINCE GEORGE'S, Maryland", "PRINCE WILLIAM, Virginia", "RALEIGH, West Virginia", "RANDOLPH, Illinois", 
+         "RANDOLPH, West Virginia", "RICHLAND, South Carolina", "RITCHIE, West Virginia", "ROANE, West Virginia", "ROSEAU, Minnesota", "RUTHERFORD, Tennessee", "SAN PATRICIO, Texas",
+         "SCOTLAND, North Carolina", "SEMINOLE, Florida", "SHELBY, Tennessee", "SPOKANE, Washington", "ST LOUIS, Minnesota", "ST LOUIS, Missouri", "ST TAMMANY, Louisiana", 
+         "STAFFORD, Virginia", "STEVENS, Minnesota", "SUMMERS, West Virginia", "SUSSEX, Delaware", "SWISHER, Texas", "TARRANT, Texas", "TWIGGS, Georgia", "UNION, South Carolina",
+         "VIGO, Indiana", "VOLUSIA, Florida", "WARD, North Dakota", "WARREN, Virginia", "WASHINGTON, Oregon", "WAYNE, Michigan", "WAYNE, West Virginia", "WEBB, Texas", "WEBSTER, Louisiana",
+         "HITFIELD, Georgia", "WINNEBAGO, Illinois", "WINNEBAGO, Wisconsin", "WOOD, West Virginia", "WYOMING, West Virginia", "ZAVALA, Texas"],
+       "count": [ 1, 1, 1, 6, 1, 8, 2, 3, 1, 2, 3, 13, 2, 3, 1, 1, 4, 2, 2, 4, 1, 4, 1, 1, 1, 4, 1, 1, 1, 1, 3, 1, 1, 11, 11, 1, 3, 2, 2, 3, 1, 1, 4, 1, 1, 1, 1, 28, 2, 43, 1,
+         1, 1, 1, 2, 1, 11, 2, 1, 2, 10, 4, 7, 22, 1, 9, 1, 1, 9, 1, 5, 2, 1, 1, 1, 1, 2, 6, 4, 1, 1, 4, 3, 1, 2, 1, 2, 2, 12, 1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 1, 1, 1,
+         5, 1, 2, 1, 2, 6, 1, 28, 4, 15, 2, 2, 1, 1, 1, 1, 9, 7, 7, 2, 5, 1, 3, 3, 1, 2, 1, 1, 2, 1, 1, 1, 9, 1, 1, 1, 1, 14, 1, 13, 1, 1, 3, 1, 1, 1, 2, 1, 1, 22, 1, 2, 2, 1, 4,
+         1, 1]
+      },
+   
+   
+      {
+        "year": "2020",
+        "location": ["ACCOMACK, Virginia", "ADAMS, Nebraska", "ALLEGHENY, Pennsylvania", "ALLEN, Ohio", "ANNE ARUNDEL, Maryland", "ASHLAND, Ohio",
+         "ATASCOSA, Texas", "BAKER, Florida", "BALTIMORE, Maryland", "BEE, Texas", "BELL, Texas", "BERKELEY, South Carolina", "BERKELEY, West Virginia", "BEXAR, Texas", 
+         "BIBB, Georgia", "BOONE, Kentucky", "BOONE, West Virginia", "BOSSIER, Louisiana", "BOX ELDER, Utah", "BRANTLEY, Georgia", "BRAXTON, West Virginia","BROOKE, West Virginia",
+         "BURNETT, Wisconsin", "CAMDEN, Missouri", "CAMPBELL, Wyoming", "CAROLINE, Virginia", "CARROLL, Virginia", "CARSON CITY, Nevada", "CARVER, Minnesota", "CASTRO, Texas",
+         "CATAWBA, North Carolina", "CHAMBERS, Texas", "CHARLEVOIX, Michigan", "CHEROKEE, Georgia", "CHESTERFIELD, Virginia", "CLARK, Washington", "CLAYTON, Georgia",
+         "COBB, Georgia", "COFFEE, Georgia", "COLLIER, Florida", "COOK, Illinois", "COOKE, Texas", "COWETA, Georgia", "CRAWFORD, Georgia", "CRAWFORD, Michigan", "CULPEPER, Virginia",
+         "CUMBERLAND, North Carolina", "CUMBERLAND, Virginia", "DEKALB, Georgia", "DODGE, Georgia", "DOUGLAS, Colorado", "DOUGLAS, Georgia", "DURHAM, North Carolina",
+         "EDWARDS, Texas", "EFFINGHAM, Georgia", "EL PASO, Texas", "ELLIS, Texas", "FAIRFAX, Virginia", "FAYETTE, West Virginia", "FLAGLER, Florida", "FLOYD, Georgia", "FORT BEND, Texas",
+         "FRANKLIN, Kentucky", "FULTON, Georgia", "GALVESTON, Texas", "GENESEE, Michigan", "GOLIAD, Texas", "GREENVILLE, South Carolina", "HALL, Georgia", "HAMILTON, Tennessee",
+         "HARDY, West Virginia", "HARFORD, Maryland", "HARRIS, Texas", "HAYWOOD, North Carolina", "HENNEPIN, Minnesota", "HENRICO, Virginia", "HERNANDO, Florida", "HILLSBOROUGH, Florida",
+         "HILLSDALE, Michigan", "HOPKINS, Texas", "HORRY, South Carolina", "HOWARD, Maryland", "INGHAM, Michigan", "JACKSON, Michigan", "JASPER, Missouri", "JEFFERSON, Louisiana",
+         "KANAWHA, West Virginia", "KENT, Michigan", "KOSCIUSKO, Indiana", "LAKE OF THE WOODS, Minnesota", "LANCASTER, South Carolina", "LEE, Florida", "LEWIS, West Virginia",
+         "LEXINGTON, South Carolina", "LINCOLN, West Virginia", "LOGAN, West Virginia", "LOWNDES, Georgia", "MACOMB, Michigan", "MARATHON, Wisconsin", "MARSHALL, West Virginia",
+         "MASON, West Virginia", "MCDONALD, Missouri", "MCLEAN, North Dakota", "MERCER, West Virginia", "MERIWETHER, Georgia", "MERRIMACK, New Hampshire", "MILLE LACS, Minnesota",
+         "MINERAL, West Virginia", "MONONGALIA, West Virginia", "MONROE, Indiana", "MONTGOMERY, Maryland", "MONTGOMERY, Ohio", "MONTGOMERY, Tennessee", "MORGAN, West Virginia",
+         "MORTON, North Dakota", "MULTNOMAH, Oregon", "MUSCOGEE, Georgia", "NEW CASTLE, Delaware", "NEWTON, Georgia", "NICHOLAS, West Virginia", "NYE, Nevada", "OAKLAND, Michigan",
+         "ORANGE, Florida", "OUTAGAMIE, Wisconsin", "PALM BEACH, Florida", "PASCO, Florida", "PATRICK, Virginia", "PAULDING, Georgia", "PERSON, North Carolina", "PICKAWAY, Ohio",
+         "PIERCE, Washington", "PITTSYLVANIA, Virginia", "PRINCE GEORGE'S, Maryland", "PRINCE GEORGE, Virginia", "PULASKI, Arkansas", "RACINE, Wisconsin", "RALEIGH, West Virginia",
+         "RANDOLPH, Illinois", "RITCHIE, West Virginia", "ROANOKE, Virginia", "RUSSELL, Virginia", "RUTHERFORD, Tennessee", "SALINE, Missouri", "SAN PATRICIO, Texas", 
+         "SCOTT, Virginia", "SEMINOLE, Florida", "SHEBOYGAN, Wisconsin", "SHELBY, Tennessee", "SHELBY, Texas", "SHERBURNE, Minnesota", "SHIAWASSEE, Michigan", 
+         "SOUTHAMPTON, Virginia", "SPOKANE, Washington", "ST CHARLES, Missouri", "ST LOUIS, Minnesota", "ST LOUIS, Missouri", "STAFFORD, Virginia", "SUMMIT, Ohio", "SUSSEX, Delaware",
+         "TARRANT, Texas", "TAZEWELL, Virginia", "THOMAS, Georgia", "TYLER, West Virginia", "UPSHUR, West Virginia","OLUSIA, Florida", "WARD, North Dakota", "WASHINGTON, Minnesota",
+          "WASHINGTON, Oregon", "WASHOE, Nevada", "WAYNE, Michigan", "WAYNE, West Virginia", "WEBB, Texas", "WHITFIELD, Georgia", "WOOD, West Virginia", "WRIGHT, Minnesota", 
+          "WYOMING, West Virginia", "ZAVALA, Texas"],
+          "count": [3, 1, 2, 1, 2, 1, 8, 1, 1, 1, 1, 1, 10, 1, 8, 1, 3, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 1, 1, 4, 1, 8, 16, 1, 3, 1, 3, 10, 1, 1, 1, 4, 1, 27, 1, 1, 6,
+           1, 43, 1, 1, 3, 1, 1, 1, 22, 6, 3, 1, 1, 20, 1, 3, 1, 1, 2, 1, 93, 2, 1, 25, 1, 25, 1, 1, 3, 7, 2, 1, 1, 1, 10, 1, 1, 1, 2, 14, 2, 4, 1, 2, 10, 2, 2, 2, 3, 1, 1, 1, 1,
+           2, 1, 2, 3, 1, 3, 5, 4, 4, 1, 1, 7, 4, 1, 1, 1, 1, 14, 1, 96, 5, 2, 18, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1, 1, 3, 1, 2, 1, 3, 6, 3, 1, 2, 4, 2, 
+           3, 2, 1, 7, 1, 3, 1, 3, 2, 1, 17, 2, 1, 1, 1, 2]
+        }
+     ]}, 
+
+     {"offense_data": [
+      {
+        "Year": 2013,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [8, 1]
+      },
+      {
+        "Year": 2014,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [53, 25]
+      },
+      {
+        "Year": 2015,
+        "Offense_Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [63, 27]
+      },
+      {
+        "Year": 2016,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [275, 50]
+      },
+      {
+        "Year": 2017,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [218, 112]
+      },
+      {
+        "Year": 2018,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [218, 59]
+      },
+      {
+        "Year": 2019,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [461, 107]
+      },
+      {
+        "Year": 2020,
+        "Offense Subcategory": ["Commercial Sex Acts", "Involuntary Servitude"],
+        "count_1": [605, 173]
+      }
+     ]},
+     
+     {"metadata2":[
+      {"year":"2013", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[2013,51617,31478,30819,32394,38827.5,39593,51540.5,67066,43233,33721,30046,38254,43267,33449,39763.5,36466,45426,30979.5,36715.5,54233,48514.5,35351.5,33144,42504,33877,31149.5,39468,32359,54166,46646,48964.5,51643,34191,38147,37972.5,35833.5,35775,35016,38095,54761,31585.5,44443,32444,39003.5,31955,37068,44915,37838,39791.5,31962,46551],
+        "population":[564021,4831586,2960459,6411717,38253768,3608736,3595792,651559,924062,19551678,9975592,1247668,3093935,1612053,12895778,6570575,2894306,4406906,4626040,6715158,5925197,1328543,9914802,5414722,6042989,2989839,1014158,9846717,723149,1865813,1327272,8857821,1988920,2776956,19626488,11579692,3853891,3924110,12779538,1055560,4766469,828621,6496943,26479646,2898773,4762500,626603,6966252,5692220,1854768,582620],
+        "ht":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0]},
+        {"year":"2014", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[54966.5,32486,32095,33875,40796,40739,53389,70494,45235,35141,31164,40477,43865,34902,39040,37372.5,42601,32145,36922,56436.5,50578,36467.5,34330,42974,34800,31541.5,41392,33887,52706,47864,51191,53501,36389,40655,39187.5,36905,38592,37283,39654,56966,32647,46222,33136,40617.5,32688,38008,45917,39296,41489,33108,48944],
+          "population":[563182,4843737,2968759,6508288,38586706,3661788,3595697,663603,933131,19853880,10071204,1252130,3110643,1632248,12885092,6596019,2901861,4416992,4645938,6764864,5960064,1331217,9932033,5452665,6059130,2991892,1022657,9937295,738736,1879955,1334257,8867277,1987188,2818935,19653431,11606573,3879187,3965447,12792392,1056511,4826858,835453,6544617,26963092,2938327,4803286,625693,7057531,5707342,1850569,583159],
+        "ht":[0,0,0,0,0,5,0,0,0,30,0,0,0,0,13,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,24,0,0,0,0,0,0,0]}
+        ,{"year":"2015", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[57301,33998,32429,34176,42667,41562,55556.5,74352,48465,36475,32619,42308,44927,36510.5,38633.5,37912.5,41528,33112,37463,59583,52463,37996.5,36185,44601,34781,32176.5,42847,34857.5,49975,49752,52444.5,54675,36307,42575,40790.5,38040.5,37086,39095.5,40443,58692,34052,46401,34375,40669,35064,40391,48076,40764,42974,33758,49947],
+          "population":[564309,4854803,2979732,6607147,38904296,3728825,3588561,677014,942065,20219111,10183353,1258918,3122541,1652495,12859585,6611442,2910717,4429126,4666998,6797484,5988528,1329098,9934483,5484002,6075411,2990231,1031495,10037218,755537,1892059,1337480,8870312,1987360,2868531,19657321,11622315,3910518,4018542,12789838,1056886,4896006,840299,6595354,27468531,2983626,4834836,625810,7167287,5717359,1843332,586389],
+        "ht":[0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,4,9,6,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11,0,3,38,0,2,0,1,0,0,0]},
+        {"year":"2016", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[55097,34117,32974,34265,43573.5,41748,56789.5,76623,48434,38172,33041,43794,44314,36582,39763.5,38760.5,41509,33250.5,36868.5,61346.5,53884.5,38606.5,37282,44269,34963,32131.5,41208,35414,50859,46625,54657,56597,36247,42667,41283,38956.5,35393,40016.5,41022,60603,34459,44416,34189,38607,34919,40077,48372,41297,43325,33779,47435],
+        "population":[567983,4866824,2991815,6716935,39149186,3789599,3579830,687576,949989,20627237,10308442,1263201,3133210,1684036,12821709,6637898,2912977,4440306,4681346,6827280,6007014,1332348,9954117,5525360,6091384,2990595,1042137,10161802,756114,1906483,1343694,8873584,1989855,2919555,19636391,11640060,3928143,4093271,12788468,1057816,4963031,849267,6651277,27914064,3044241,4867596,624366,7299961,5729712,1832435,585243],
+        "ht":[0,0,2,0,0,3,0,0,12,73,0,0,0,0,4,0,0,0,115,0,9,0,1,3,11,0,1,0,1,0,0,0,0,0,0,1,1,1,0,0,13,0,1,63,0,7,0,1,0,0,2]},
+        {"year":"2017", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[57105,35057,33927,36501,45716.5,42396,57900,78116,49909,38896,34168,46061,45351,37047,40409.5,40381,41449,34129,38531.5,63492.5,55385.5,39842.5,37814,45861,36238,33648,42201,36622.5,51851,45401,56651,59144,36588,44203,43617.5,40380.5,36416,41223.5,42500,61544,35997.5,45865,35525,40819,36938,42190,49535,42945,44513.5,35618,48996],
+        "population":[565878,4877989,3003855,6818107,39337785,3839733,3575324,697079,957942,20977089,10417031,1259211,3143734,1719745,12779893,6662068,2910892,4455590,4673673,6863560,6028186,1335743,9976752,5569283,6111382,2990674,1053862,10275758,756755,1916998,1350395,8888147,1989953,2972097,19593849,11665706,3933602,4147294,12794679,1056554,5027102,859340,6714748,28291024,3103540,4899853,625132,7427951,5747713,1818683,579994],
+        "ht":[0,0,0,7,0,7,0,0,5,0,0,0,0,0,6,0,0,53,53,2,0,0,8,22,18,0,1,0,3,0,0,0,0,0,0,0,0,1,0,0,23,0,9,86,1,5,3,1,15,0,1]},
+        {"year":"2018", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[58753,35905,34972,38892,46720.5,43157,59273,80342,51790,39930,34940,48497,47927,38200,41771.5,41930.5,43888,35145,39992,66207.5,56225.5,41498,39359,47064,36809,34768.5,44844.5,37401.5,54827,47790,58353.5,61140,38545,44965,44751.5,41995,38315,43042,44839,65638,37176.5,48354,36866,43084,38356,43390,51118.5,44521,46096.5,37030,52224],
+          "population":[561553,4891628,3012161,6931953,39437463,3895414,3574561,704147,966985,21254926,10519389,1255631,3149900,1752074,12724685,6698481,2912748,4464273,4664450,6885720,6042153,1340123,9987286,5608762,6125986,2982879,1061818,10391358,760062,1925512,1355064,8891730,1990505,3030725,19544098,11680892,3943488,4183538,12809107,1059338,5091702,865062,6778180,28624564,3155153,4929008,624802,7526793,5763998,1805953,579054],
+        "ht":[0,0,0,3,0,6,0,0,4,60,0,0,0,0,7,4,0,7,11,0,0,0,27,17,14,1,0,0,1,0,0,0,0,0,0,0,2,0,0,0,6,0,6,79,0,7,2,2,3,4,4]},
+        {"year":"2019", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[61669,37061,35869,39720,48908,45623,61333.5,80819,52935,42058,36250,50967,48362,41175,43150.5,42983,44967,36587,42017,68823,57543.5,43599.5,40957,48237,38057,35952,46898,39608.5,58923,49555,60390,63528,40436,46584,46772,42735.5,39769,44548.5,46443,68421,38681,49575,38247,44619,40330,44185,52989,46524,47740.5,38023,53532],
+        "population":[558256,4907965,3020985,7056404,39437610,3937771,3566022,708253,976668,21492056,10628020,1247846,3159596,1789060,12667017,6731010,2912635,4472345,4658285,6894883,6054954,1345770,9984795,5640053,6140475,2978227,1070123,10501384,763724,1932571,1360783,8891258,1996000,3090771,19463131,11696507,3960676,4216116,12798883,1058158,5157702,872956,6830325,28986794,3203383,4961302,624046,7614024,5779234,1795263,580116],
+        "ht":[0,0,0,0,0,9,0,0,19,68,42,1,0,0,7,7,0,31,10,0,30,0,50,14,11,1,0,25,2,3,0,0,2,1,0,8,0,3,0,0,15,0,7,76,0,41,4,5,13,63,0]},
+        {"year":"2020", "state_abb":["AK","AL",	"AR",	"AZ",	"CA",	"CO",	"CT",	"DC", "DE",	"FL",	"GA",	"HI",	"IA",	"ID",	"IL",	"IN",	"KS",	"KY",	"LA",	"MA",	"MD",	"ME",	"MI",	"MN",	"MO",	"MS",	"MT",	"NC",	"ND",	"NE",	"NH",	"NJ",	"NM",	"NV",	"NY",	"OH",	"OK",	"OR",	"PA",	"RI",	"SC",	"SD",	"TN",	"TX",	"UT",	"VA",	"VT",	"WA",	"WI",	"WV",	"WY"],"income":[64621,39988,38307,44050,54690.5,49877,64154.5,86567,54352,44065,39262,54089,51584,44212,48333,46540.5,49436,40688.5,45016,74276.5,61234,47550,45260,53881,41771,38938.5,51120,42331,64096,55173,63621,67814,44732,50429,50577.5,46552.5,41477,48097.5,50391,71717,41798.5,56496,40627,46952.5,44131,47927,56946.5,49718,50684.5,40571,54361],
+        "population":[556141,4921532,3030522,7182097,39368078,3971163,3557006,712816,986809,21733312,10710017,1239017,3163561,1826913,12587530,6754953,2913805,4477251,4645318,6893574,6055802,1350141,9966555,5657342,6151548,2966786,1080577,10600823,765309,1937552,1366275,8882371,2002391,3138259,19336776,11693217,3980783,4241507,12783254,1057125,5218040,878647,6886834,29360759,3249879,4988213,623347,7693612,5787323,1784787,582328],
+        "ht":[0,0,1,0,0,1,0,0,6,169,149,0,0,0,2,2,0,4,2,0,14,0,35,12,11,0,0,10,3,1,2,0,0,5,0,9,0,2,2,0,13,0,7,193,2,51,0,4,8,57,1]}
+      
+     ]}
+] 
+    
