@@ -14,7 +14,7 @@ let countyData = L.layerGroup([]);
 const myMap = L.map("map", {
     center: [35.0902, -105.7129],
     zoom: 4,
-    layers: [satellite]
+    layers: [satellite, countyData]
 });
 
 async function dataLoad() {
