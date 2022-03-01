@@ -51,7 +51,7 @@ Then we created the bar graph which shows the human trafficking counts by county
 
 <img src="/Images/Bar_chart.png" alt="Bar chart"/>
 
-Finally we added extra links to explore the data on your own and take you to relevent sites with infromation about human trafficking in the US. Once you click on the text, another window will open taking you to the desired site.
+Finally we added extra links to explore the data on your own and take you to relevent sites with information about human trafficking in the US. Once you click on the text, another window will open taking you to the desired site.
 
 <img src="/Images/Links.png" alt="Links"/>
 
