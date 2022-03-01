@@ -8,6 +8,11 @@ const satellite = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite
     maxZoom: 18,
     accessToken: API_KEY
 });
+const dark = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/dark-v10/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery (c) <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    accessToken: API_KEY
+});
 
 let countyData = L.layerGroup([]);
 
@@ -55,6 +60,15 @@ async function dataLoad() {
             }).bindPopup(`<h1>${location}</h1><hr><h3>Year: ${year}<br>Count: ${count}</h3>`);
             county.addTo(countyData);
 
+            // let yearsSelect = dataset.map(function(row) {
+            //     return row.year;
+            // }).sort().filter(function(v, i, arr) {
+            //     return i ==0 || arr[i-1] != v;
+            // });
+            // draw(dataset);
+            // d3.select('#selectMap').selectAll('option:not([disabled])').data(industries).enter().append("option").attr("value", function(d) {
+            //     return d;
+            // })
 
         };
         let legend = L.control({position: "bottomright"});
@@ -88,7 +102,8 @@ dataLoad();
 
 const baseMaps = {
     Satellite: satellite,
-    Street: street
+    Street: street,
+    Dark: dark
 };
 const overlayMaps = {
     "Human Trafficking Counts": countyData

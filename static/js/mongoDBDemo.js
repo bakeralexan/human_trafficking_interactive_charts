@@ -2,7 +2,7 @@ import 'dotenv/config'
 require('dotenv').config()
 const{MongoClient} = require('mongodb');
 async function main () {
-    process.env.uri
+    const uri = "mongodb+srv://bakera:Ew1KJbtbhWk5juZO@cluster0.ndlmg.mongodb.net/myFirstDatabase"
     const client = new MongoClient(uri);
     try {
         await client.connect();
