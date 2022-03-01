@@ -29,7 +29,7 @@ https://apps.bea.gov/regional/downloadzip.cfm
 ### Website Creation
 First we coded the layout of the dashboard header. Adding a dropdown button that has references to the charts labeled at the bottom of the page.
 
-<img src="/Images/Dashboard_header.png" alt="Dashboard Header"/>
+<img src="/Images/Dashboard_Header.png" alt="Dashboard Header"/>
 
 Then we added the interactive map that shows the counts of human trafficking per county.
 
