@@ -67,11 +67,12 @@ function pieFunc(yearLoc) {
             labels: ["Commercial Sex Acts", "Involuntary Servitude"],
             type:"pie"
         }];
-        let layout = {
+        let layoutPie = {
             height: 600,
-            width: 800
+            width: 800,
+            title: "Human Trafficking Subcategory By Year in the United States 2013-2020"
         };
-        Plotly.newPlot("pie", pieTrace, layout);
+        Plotly.newPlot("pie", pieTrace, layoutPie);
     });
 };
 
