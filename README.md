@@ -1,7 +1,5 @@
 # human_trafficking_interactive_charts
-</a href="https://bakeralexan.github.io/human_trafficking_interactive_charts/"> Live Website </a>
-
-</a href="https://bakeralexan.github.io/human_trafficking_interactive_charts/"> https://bakeralexan.github.io/human_trafficking_interactive_charts/ </a>
+https://bakeralexan.github.io/human_trafficking_interactive_charts/
 
 <img src="/Images/stop_human_trafficking.jpeg" alt="Stop human trafficking"/>
 
