@@ -22,6 +22,7 @@ const myMap = L.map("map", {
     layers: [satellite, countyData]
 });
 
+let url = "https://bakeralexan.github.io/human_trafficking_interactive_charts/data"
 async function dataLoad() {
     const dataset = await d3.json("ht_2013_2020_v3.json").then(function (response) {
 
